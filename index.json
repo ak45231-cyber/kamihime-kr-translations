@@ -1,0 +1,83 @@
+{
+  "version": "2026-04-19T09:25:22.289Z",
+  "engine": "eztransXP",
+  "files": [
+    {
+      "name": "a_concierges.json",
+      "sheet": "a_concierges",
+      "count": 2,
+      "hash": "3d88f3fb55e3c378",
+      "size": 68
+    },
+    {
+      "name": "a_library.json",
+      "sheet": "a_library",
+      "count": 14129,
+      "hash": "8f1c1ce67e00eed0",
+      "size": 870806
+    },
+    {
+      "name": "a_mail.json",
+      "sheet": "a_mail",
+      "count": 5,
+      "hash": "b2d6052ee3c6af6f",
+      "size": 205
+    },
+    {
+      "name": "a_missions.json",
+      "sheet": "a_missions",
+      "count": 80,
+      "hash": "1dba17073ce60b26",
+      "size": 4043
+    },
+    {
+      "name": "a_parties.json",
+      "sheet": "a_parties",
+      "count": 188,
+      "hash": "4bd1686b7702897d",
+      "size": 7672
+    },
+    {
+      "name": "a_players.json",
+      "sheet": "a_players",
+      "count": 7,
+      "hash": "a1ecfd34278a5752",
+      "size": 180
+    },
+    {
+      "name": "a_quest_info.json",
+      "sheet": "a_quest_info",
+      "count": 1,
+      "hash": "b4d88091e4cb6f65",
+      "size": 21
+    },
+    {
+      "name": "a_quests.json",
+      "sheet": "a_quests",
+      "count": 349,
+      "hash": "b19c6ee15acaa67b",
+      "size": 12029
+    },
+    {
+      "name": "chat.json",
+      "sheet": "chat",
+      "count": 1,
+      "hash": "17fd9526f3ddd578",
+      "size": 16
+    },
+    {
+      "name": "contents_information.json",
+      "sheet": "contents_information",
+      "count": 2,
+      "hash": "f063a8a3b10dec3c",
+      "size": 91
+    },
+    {
+      "name": "quests.json",
+      "sheet": "quests",
+      "count": 250,
+      "hash": "13d8145ec6c90320",
+      "size": 34640
+    }
+  ]
+}
