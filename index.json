@@ -1,83 +1,196 @@
 {
-  "version": "2026-04-19T09:25:22.289Z",
-  "engine": "eztransXP",
+  "version": "2026-04-19T15:14:36.643Z",
+  "engine": "vertex-ai",
+  "model": "gemini-3-flash-preview",
   "files": [
+    {
+      "name": "a_accessories.json",
+      "sheet": "a_accessories",
+      "count": 10,
+      "hash": "518fcdd4db8407f4",
+      "size": 307
+    },
+    {
+      "name": "a_battles.json",
+      "sheet": "a_battles",
+      "count": 293,
+      "hash": "584517aadaa588f2",
+      "size": 12836
+    },
+    {
+      "name": "a_characters.json",
+      "sheet": "a_characters",
+      "count": 35,
+      "hash": "fb63f497603eb679",
+      "size": 1241
+    },
     {
       "name": "a_concierges.json",
       "sheet": "a_concierges",
-      "count": 2,
-      "hash": "3d88f3fb55e3c378",
-      "size": 68
+      "count": 9,
+      "hash": "1b2271c6b1e4c241",
+      "size": 533
+    },
+    {
+      "name": "a_epic_subject.json",
+      "sheet": "a_epic_subject",
+      "count": 1,
+      "hash": "8a529a1c4fb099f2",
+      "size": 28
+    },
+    {
+      "name": "a_exchange_item_shop.json",
+      "sheet": "a_exchange_item_shop",
+      "count": 1,
+      "hash": "dbb56378b973118f",
+      "size": 20
+    },
+    {
+      "name": "a_items.json",
+      "sheet": "a_items",
+      "count": 12,
+      "hash": "8297ca9b145d8b15",
+      "size": 855
     },
     {
       "name": "a_library.json",
       "sheet": "a_library",
-      "count": 14129,
-      "hash": "8f1c1ce67e00eed0",
-      "size": 870806
+      "count": 10559,
+      "hash": "1e1665e81b9654dd",
+      "size": 642591
     },
     {
       "name": "a_mail.json",
       "sheet": "a_mail",
-      "count": 5,
-      "hash": "b2d6052ee3c6af6f",
-      "size": 205
+      "count": 6,
+      "hash": "24915c6724df448d",
+      "size": 244
     },
     {
       "name": "a_missions.json",
       "sheet": "a_missions",
-      "count": 80,
-      "hash": "1dba17073ce60b26",
-      "size": 4043
+      "count": 141,
+      "hash": "5aa26ede1d4bdffb",
+      "size": 7250
     },
     {
       "name": "a_parties.json",
       "sheet": "a_parties",
-      "count": 188,
-      "hash": "4bd1686b7702897d",
-      "size": 7672
+      "count": 372,
+      "hash": "cee444baba37ceab",
+      "size": 14473
     },
     {
       "name": "a_players.json",
       "sheet": "a_players",
-      "count": 7,
-      "hash": "a1ecfd34278a5752",
-      "size": 180
+      "count": 0,
+      "hash": "44136fa355b3678a",
+      "size": 2
+    },
+    {
+      "name": "a_presents.json",
+      "sheet": "a_presents",
+      "count": 305,
+      "hash": "5e4f3895256c1fd6",
+      "size": 9362
+    },
+    {
+      "name": "a_presents_receive.json",
+      "sheet": "a_presents_receive",
+      "count": 0,
+      "hash": "44136fa355b3678a",
+      "size": 2
     },
     {
       "name": "a_quest_info.json",
       "sheet": "a_quest_info",
-      "count": 1,
-      "hash": "b4d88091e4cb6f65",
-      "size": 21
+      "count": 0,
+      "hash": "44136fa355b3678a",
+      "size": 2
     },
     {
       "name": "a_quests.json",
       "sheet": "a_quests",
-      "count": 349,
-      "hash": "b19c6ee15acaa67b",
-      "size": 12029
+      "count": 278,
+      "hash": "2a65dcd5d13cadf5",
+      "size": 10301
+    },
+    {
+      "name": "a_sequential_missions.json",
+      "sheet": "a_sequential_missions",
+      "count": 98,
+      "hash": "276abcee6c9becbe",
+      "size": 5844
+    },
+    {
+      "name": "a_summons.json",
+      "sheet": "a_summons",
+      "count": 0,
+      "hash": "44136fa355b3678a",
+      "size": 2
     },
     {
       "name": "chat.json",
       "sheet": "chat",
-      "count": 1,
-      "hash": "17fd9526f3ddd578",
-      "size": 16
+      "count": 0,
+      "hash": "44136fa355b3678a",
+      "size": 2
     },
     {
       "name": "contents_information.json",
       "sheet": "contents_information",
       "count": 2,
-      "hash": "f063a8a3b10dec3c",
-      "size": 91
+      "hash": "b00d001ee4a5c68b",
+      "size": 92
+    },
+    {
+      "name": "gacha_categories.json",
+      "sheet": "gacha_categories",
+      "count": 0,
+      "hash": "44136fa355b3678a",
+      "size": 2
+    },
+    {
+      "name": "gacha_category.json",
+      "sheet": "gacha_category",
+      "count": 10,
+      "hash": "765a7857e7d144d1",
+      "size": 318
+    },
+    {
+      "name": "items.json",
+      "sheet": "items",
+      "count": 10,
+      "hash": "d48025bd5ff95b0f",
+      "size": 743
+    },
+    {
+      "name": "premium_pass.json",
+      "sheet": "premium_pass",
+      "count": 3,
+      "hash": "4558416088c5f5f8",
+      "size": 84
     },
     {
       "name": "quests.json",
       "sheet": "quests",
-      "count": 250,
-      "hash": "13d8145ec6c90320",
-      "size": 34640
+      "count": 0,
+      "hash": "44136fa355b3678a",
+      "size": 2
+    },
+    {
+      "name": "shop.json",
+      "sheet": "shop",
+      "count": 1304,
+      "hash": "39fbb477875470fd",
+      "size": 79036
+    },
+    {
+      "name": "summons.json",
+      "sheet": "summons",
+      "count": 0,
+      "hash": "44136fa355b3678a",
+      "size": 2
     }
   ]
 }
