@@ -1,69 +1,70 @@
 {
-  "version": "2026-04-20T04:04:47.635Z",
-  "engine": "merged",
+  "version": "2026-04-20T16:04:30.703Z",
+  "engine": "vertex-ai",
+  "model": "gemini-3-flash-preview",
   "files": [
     {
       "name": "a_areas.json",
       "sheet": "a_areas",
-      "count": 56,
-      "hash": "61db3d267bbfd8c5",
-      "size": 3027
+      "count": 151,
+      "hash": "349cc1185007c0a8",
+      "size": 5791
     },
     {
       "name": "a_battles.json",
       "sheet": "a_battles",
-      "count": 293,
-      "hash": "53ded63501aa9a3e",
-      "size": 12825
+      "count": 497,
+      "hash": "d85c11b750255122",
+      "size": 21253
+    },
+    {
+      "name": "a_characters.json",
+      "sheet": "a_characters",
+      "count": 6,
+      "hash": "083945e96065dc7c",
+      "size": 414
     },
     {
       "name": "a_concierges.json",
       "sheet": "a_concierges",
-      "count": 9,
-      "hash": "b5cb3e5d7231d865",
-      "size": 543
+      "count": 11,
+      "hash": "ca83c2ec1b5244c1",
+      "size": 698
     },
     {
       "name": "a_epic_subject.json",
       "sheet": "a_epic_subject",
-      "count": 126,
-      "hash": "eb5283255d1256a1",
-      "size": 4082
+      "count": 128,
+      "hash": "2f1f53872b19e5e5",
+      "size": 4128
     },
     {
       "name": "a_events.json",
       "sheet": "a_events",
-      "count": 5,
-      "hash": "d057997d5b646fdf",
-      "size": 243
+      "count": 17,
+      "hash": "ac010b5cbc1045ef",
+      "size": 684
     },
     {
-      "name": "a_exchange_item_shop.json",
-      "sheet": "a_exchange_item_shop",
-      "count": 34,
-      "hash": "a233dbbb422c4c05",
-      "size": 806
+      "name": "a_friend_offers.json",
+      "sheet": "a_friend_offers",
+      "count": 1,
+      "hash": "7df7f2bd4d8a5d38",
+      "size": 36
     },
     {
-      "name": "a_extreme_quest.json",
-      "sheet": "a_extreme_quest",
-      "count": 8,
-      "hash": "b053f8fd77e1cbea",
-      "size": 712
-    },
-    {
-      "name": "a_friends.json",
-      "sheet": "a_friends",
-      "count": 100,
-      "hash": "152f7323c553d7c4",
-      "size": 3744
+      "name": "a_gacha_categories.json",
+      "sheet": "a_gacha_categories",
+      "count": 3,
+      "hash": "f65af89b49a84dc7",
+      "size": 110
     },
     {
       "name": "a_items.json",
       "sheet": "a_items",
-      "count": 882,
-      "hash": "ce110e590e1933df",
-      "size": 52445
+      "count": 886,
+      "hash": "9e0b78ea5b088bce",
+      "size": 52706
     },
     {
       "name": "a_jobs.json",
@@ -75,23 +76,23 @@
     {
       "name": "a_library.json",
       "sheet": "a_library",
-      "count": 14493,
-      "hash": "4e1740c6a9d2f5c8",
-      "size": 884193
+      "count": 14755,
+      "hash": "46bc13bc795923d5",
+      "size": 897743
+    },
+    {
+      "name": "a_magic_powers.json",
+      "sheet": "a_magic_powers",
+      "count": 34,
+      "hash": "34572284e39a4755",
+      "size": 1326
     },
     {
       "name": "a_mail.json",
       "sheet": "a_mail",
-      "count": 6,
-      "hash": "cd67a63ec29a9833",
-      "size": 251
-    },
-    {
-      "name": "a_missions.json",
-      "sheet": "a_missions",
-      "count": 143,
-      "hash": "d165a151ad930222",
-      "size": 7289
+      "count": 8,
+      "hash": "ebbc0bcb3c99ab65",
+      "size": 350
     },
     {
       "name": "a_ninearms_portal.json",
@@ -103,44 +104,37 @@
     {
       "name": "a_parties.json",
       "sheet": "a_parties",
-      "count": 898,
-      "hash": "cc2e27d83a7d6ef3",
-      "size": 39944
+      "count": 919,
+      "hash": "d7b338aae308b7d1",
+      "size": 41189
     },
     {
       "name": "a_players.json",
       "sheet": "a_players",
-      "count": 36,
-      "hash": "981dad68f3f191b9",
-      "size": 1086
+      "count": 50,
+      "hash": "324973e0f5a6d150",
+      "size": 1698
+    },
+    {
+      "name": "a_premium_pass.json",
+      "sheet": "a_premium_pass",
+      "count": 31,
+      "hash": "cd1104598aa602f9",
+      "size": 1604
     },
     {
       "name": "a_presents.json",
       "sheet": "a_presents",
-      "count": 514,
-      "hash": "6932a4852c4a71ec",
-      "size": 15368
-    },
-    {
-      "name": "a_presents_receive.json",
-      "sheet": "a_presents_receive",
-      "count": 2,
-      "hash": "612fa059f7d653a5",
-      "size": 86
+      "count": 626,
+      "hash": "d5f75db30abaedd2",
+      "size": 22140
     },
     {
       "name": "a_quests.json",
       "sheet": "a_quests",
-      "count": 837,
-      "hash": "5e968fc8fb231bde",
-      "size": 29756
-    },
-    {
-      "name": "a_quest_info.json",
-      "sheet": "a_quest_info",
-      "count": 1,
-      "hash": "69f7477e5a6bedbc",
-      "size": 45
+      "count": 1126,
+      "hash": "a50b42937bc6e03d",
+      "size": 51711
     },
     {
       "name": "a_sequential_missions.json",
@@ -150,11 +144,25 @@
       "size": 17557
     },
     {
-      "name": "a_weapon_break_quest.json",
-      "sheet": "a_weapon_break_quest",
-      "count": 68,
-      "hash": "9fd328972fed8b25",
-      "size": 1668
+      "name": "a_summons.json",
+      "sheet": "a_summons",
+      "count": 336,
+      "hash": "e0489592800aba46",
+      "size": 24804
+    },
+    {
+      "name": "a_support_summon_setting.json",
+      "sheet": "a_support_summon_setting",
+      "count": 3,
+      "hash": "89815e74595fc64f",
+      "size": 337
+    },
+    {
+      "name": "a_warehouses.json",
+      "sheet": "a_warehouses",
+      "count": 6,
+      "hash": "75073e04642fec50",
+      "size": 224
     },
     {
       "name": "a_worlds.json",
@@ -166,37 +174,37 @@
     {
       "name": "canvas_text.json",
       "sheet": "canvas_text",
-      "count": 686,
-      "hash": "ec52a4d1bc5f56f8",
-      "size": 26757
-    },
-    {
-      "name": "chat.json",
-      "sheet": "chat",
-      "count": 1,
-      "hash": "487e1227d5e8ef43",
-      "size": 23
+      "count": 4945,
+      "hash": "71de5ddc38b73c97",
+      "size": 208386
     },
     {
       "name": "contents_information.json",
       "sheet": "contents_information",
-      "count": 2,
-      "hash": "8fcf5e1337fac043",
-      "size": 95
+      "count": 4,
+      "hash": "17beca646daa2cfb",
+      "size": 190
     },
     {
-      "name": "gacha_categories.json",
-      "sheet": "gacha_categories",
-      "count": 3,
-      "hash": "14d08f1c40ead410",
-      "size": 54
+      "name": "events.json",
+      "sheet": "events",
+      "count": 2,
+      "hash": "4f4ca0645e8e157b",
+      "size": 69
     },
     {
       "name": "gacha_category.json",
       "sheet": "gacha_category",
-      "count": 10,
-      "hash": "019b031597a19076",
-      "size": 329
+      "count": 46,
+      "hash": "59fc3010d907632c",
+      "size": 2205
+    },
+    {
+      "name": "harem_scenes.json",
+      "sheet": "harem_scenes",
+      "count": 14,
+      "hash": "09d1bc04bedec86e",
+      "size": 1039
     },
     {
       "name": "items.json",
@@ -206,11 +214,11 @@
       "size": 1349
     },
     {
-      "name": "premium_pass.json",
-      "sheet": "premium_pass",
-      "count": 3,
-      "hash": "c643e6b697ad504d",
-      "size": 88
+      "name": "lucent_weapons.json",
+      "sheet": "lucent_weapons",
+      "count": 35,
+      "hash": "053b700984bd1368",
+      "size": 3323
     },
     {
       "name": "quests.json",
@@ -220,11 +228,39 @@
       "size": 34570
     },
     {
+      "name": "scenario_script.json",
+      "sheet": "scenario_script",
+      "count": 11454,
+      "hash": "6b99ef0fde680752",
+      "size": 855608
+    },
+    {
+      "name": "scenarios.json",
+      "sheet": "scenarios",
+      "count": 315,
+      "hash": "34806b25fc61063f",
+      "size": 40477
+    },
+    {
       "name": "shop.json",
       "sheet": "shop",
-      "count": 1429,
-      "hash": "8e60ff4b787a1c28",
-      "size": 88203
+      "count": 1607,
+      "hash": "e97af7cd264f7a49",
+      "size": 106386
+    },
+    {
+      "name": "summons.json",
+      "sheet": "summons",
+      "count": 6,
+      "hash": "124c4d8fc4707029",
+      "size": 574
+    },
+    {
+      "name": "weapons.json",
+      "sheet": "weapons",
+      "count": 4,
+      "hash": "80883bd9f0e12e41",
+      "size": 589
     }
   ]
 }
