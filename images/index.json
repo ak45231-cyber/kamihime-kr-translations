@@ -1,11 +1,11 @@
 {
-  "version": "2026-04-20T17:05:12.991Z",
+  "version": "2026-04-20T17:21:04.745Z",
   "baseUrl": "",
   "totalFiles": 1,
   "byHost": {
     "r.kamihimeproject.net": 1
   },
   "mappings": {
-    "https://r.kamihimeproject.net/front/cocos2d-proj/components-pc/core/res/ui/main/mainmenu/mainmenu/atlas.png": "r.kamihimeproject.net/front/cocos2d-proj/components-pc/core/res/ui/main/mainmenu/mainmenu/atlas.png"
+    "https://r.kamihimeproject.net/front/cocos2d-proj/components-pc/core/res/ui_main/mainmenu/mainmenu_atlas.png": "r.kamihimeproject.net/front/cocos2d-proj/components-pc/core/res/ui_main/mainmenu/mainmenu_atlas.png"
   }
 }
