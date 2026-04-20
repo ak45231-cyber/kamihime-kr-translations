@@ -1,15 +1,7 @@
 {
-  "version": "2026-04-20T02:19:47.685Z",
-  "engine": "vertex-ai",
-  "model": "gemini-3-flash-preview",
+  "version": "2026-04-20T04:04:47.635Z",
+  "engine": "merged",
   "files": [
-    {
-      "name": "a_accessories.json",
-      "sheet": "a_accessories",
-      "count": 39,
-      "hash": "8abcd24db7b0325d",
-      "size": 1111
-    },
     {
       "name": "a_areas.json",
       "sheet": "a_areas",
@@ -23,13 +15,6 @@
       "count": 293,
       "hash": "53ded63501aa9a3e",
       "size": 12825
-    },
-    {
-      "name": "a_characters.json",
-      "sheet": "a_characters",
-      "count": 139,
-      "hash": "f40412c2f354df4a",
-      "size": 6452
     },
     {
       "name": "a_concierges.json",
@@ -90,9 +75,9 @@
     {
       "name": "a_library.json",
       "sheet": "a_library",
-      "count": 14138,
-      "hash": "e853cdfd2d63a7e0",
-      "size": 864835
+      "count": 14493,
+      "hash": "4e1740c6a9d2f5c8",
+      "size": 884193
     },
     {
       "name": "a_mail.json",
@@ -144,18 +129,18 @@
       "size": 86
     },
     {
-      "name": "a_quest_info.json",
-      "sheet": "a_quest_info",
-      "count": 1,
-      "hash": "69f7477e5a6bedbc",
-      "size": 45
-    },
-    {
       "name": "a_quests.json",
       "sheet": "a_quests",
       "count": 837,
       "hash": "5e968fc8fb231bde",
       "size": 29756
+    },
+    {
+      "name": "a_quest_info.json",
+      "sheet": "a_quest_info",
+      "count": 1,
+      "hash": "69f7477e5a6bedbc",
+      "size": 45
     },
     {
       "name": "a_sequential_missions.json",
@@ -165,13 +150,6 @@
       "size": 17557
     },
     {
-      "name": "a_summons.json",
-      "sheet": "a_summons",
-      "count": 238,
-      "hash": "18629edfb56996c6",
-      "size": 8899
-    },
-    {
       "name": "a_weapon_break_quest.json",
       "sheet": "a_weapon_break_quest",
       "count": 68,
@@ -179,25 +157,11 @@
       "size": 1668
     },
     {
-      "name": "a_weapons.json",
-      "sheet": "a_weapons",
-      "count": 61,
-      "hash": "5e8050908cf8e4b3",
-      "size": 1927
-    },
-    {
       "name": "a_worlds.json",
       "sheet": "a_worlds",
       "count": 82,
       "hash": "e3985bfe0167bdd1",
       "size": 3087
-    },
-    {
-      "name": "accessories.json",
-      "sheet": "accessories",
-      "count": 8,
-      "hash": "a711ccb8d2715085",
-      "size": 257
     },
     {
       "name": "canvas_text.json",
@@ -242,13 +206,6 @@
       "size": 1349
     },
     {
-      "name": "lucent_weapons.json",
-      "sheet": "lucent_weapons",
-      "count": 195,
-      "hash": "c51b10558f76d44a",
-      "size": 13558
-    },
-    {
       "name": "premium_pass.json",
       "sheet": "premium_pass",
       "count": 3,
@@ -268,13 +225,6 @@
       "count": 1429,
       "hash": "8e60ff4b787a1c28",
       "size": 88203
-    },
-    {
-      "name": "summons.json",
-      "sheet": "summons",
-      "count": 50,
-      "hash": "a37a7bb774d69a99",
-      "size": 2559
     }
   ]
 }
