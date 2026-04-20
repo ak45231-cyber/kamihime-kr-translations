@@ -1,4 +1,4 @@
 {
-  "アイテム": "[received_info[0].name] 아이템",
-  "マテリアル": "[received_info[1].name] 마테리얼"
+  "アイテム": ".name] 아이템",
+  "マテリアル": ".name] 마테리얼"
 }
