@@ -1,5 +1,5 @@
 {
-  "version": "2026-04-22T07:06:24.374Z",
+  "version": "2026-04-22T07:55:58.850Z",
   "engine": "category-split-with-meta",
   "files": [
     {
@@ -106,22 +106,22 @@
       "name": "a_characters_meta.json",
       "sheet": "a_characters_meta",
       "count": 4162,
-      "hash": "027619111a0ff742",
-      "size": 893163
+      "hash": "a7ecac32ae218df1",
+      "size": 1025750
     },
     {
       "name": "a_eidolons_meta.json",
       "sheet": "a_eidolons_meta",
-      "count": 190,
-      "hash": "f79b380744f7275e",
-      "size": 39432
+      "count": 344,
+      "hash": "abc5d2bfd6e4e2be",
+      "size": 183322
     },
     {
       "name": "a_eirei_meta.json",
       "sheet": "a_eirei_meta",
       "count": 275,
-      "hash": "1a86be83e9394aa0",
-      "size": 49478
+      "hash": "863592b0e3b737c6",
+      "size": 56624
     }
   ]
 }
