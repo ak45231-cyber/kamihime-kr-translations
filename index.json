@@ -1,14 +1,127 @@
 {
-  "version": "2026-04-21T15:52:42.854Z",
-  "engine": "vertex-ai",
-  "model": "gemini-3-flash-preview",
+  "version": "2026-04-22T07:06:24.374Z",
+  "engine": "category-split-with-meta",
   "files": [
     {
-      "name": "a_library.json",
-      "sheet": "a_library",
-      "count": 24782,
-      "hash": "448384cf3f913235",
-      "size": 1514959
+      "name": "a_characters.json",
+      "sheet": "a_characters",
+      "count": 9049,
+      "hash": "8940344c3c5a6b0f",
+      "size": 502072
+    },
+    {
+      "name": "a_characters.old.2026-04-22.json",
+      "sheet": "a_characters.old.2026-04-22",
+      "count": 0,
+      "hash": "44136fa355b3678a",
+      "size": 2
+    },
+    {
+      "name": "a_concierges.json",
+      "sheet": "a_concierges",
+      "count": 11,
+      "hash": "ca83c2ec1b5244c1",
+      "size": 698
+    },
+    {
+      "name": "a_eidolons.json",
+      "sheet": "a_eidolons",
+      "count": 2518,
+      "hash": "f6d942dbcf8b0ac6",
+      "size": 163059
+    },
+    {
+      "name": "a_eidolons.old.2026-04-22.json",
+      "sheet": "a_eidolons.old.2026-04-22",
+      "count": 0,
+      "hash": "44136fa355b3678a",
+      "size": 2
+    },
+    {
+      "name": "a_eirei.json",
+      "sheet": "a_eirei",
+      "count": 565,
+      "hash": "3d11eb266baeba2c",
+      "size": 21508
+    },
+    {
+      "name": "a_eirei.old.2026-04-22.json",
+      "sheet": "a_eirei.old.2026-04-22",
+      "count": 0,
+      "hash": "44136fa355b3678a",
+      "size": 2
+    },
+    {
+      "name": "a_epic_subject.json",
+      "sheet": "a_epic_subject",
+      "count": 127,
+      "hash": "598d956e34fb2375",
+      "size": 4114
+    },
+    {
+      "name": "a_extreme_quest.json",
+      "sheet": "a_extreme_quest",
+      "count": 8,
+      "hash": "b053f8fd77e1cbea",
+      "size": 712
+    },
+    {
+      "name": "a_weapons.json",
+      "sheet": "a_weapons",
+      "count": 0,
+      "hash": "44136fa355b3678a",
+      "size": 2
+    },
+    {
+      "name": "a_weapons.old.2026-04-22.json",
+      "sheet": "a_weapons.old.2026-04-22",
+      "count": 0,
+      "hash": "44136fa355b3678a",
+      "size": 2
+    },
+    {
+      "name": "a_worlds.json",
+      "sheet": "a_worlds",
+      "count": 82,
+      "hash": "e3985bfe0167bdd1",
+      "size": 3087
+    },
+    {
+      "name": "quests.json",
+      "sheet": "quests",
+      "count": 246,
+      "hash": "30e30568dc89c0db",
+      "size": 34463
+    },
+    {
+      "name": "scenarios.json",
+      "sheet": "scenarios",
+      "count": 237,
+      "hash": "6a2deaabfa176207",
+      "size": 35158
+    }
+  ],
+  "meta": [
+    {
+      "name": "a_characters_meta.json",
+      "sheet": "a_characters_meta",
+      "count": 4162,
+      "hash": "027619111a0ff742",
+      "size": 893163
+    },
+    {
+      "name": "a_eidolons_meta.json",
+      "sheet": "a_eidolons_meta",
+      "count": 190,
+      "hash": "f79b380744f7275e",
+      "size": 39432
+    },
+    {
+      "name": "a_eirei_meta.json",
+      "sheet": "a_eirei_meta",
+      "count": 275,
+      "hash": "1a86be83e9394aa0",
+      "size": 49478
     }
   ]
 }
