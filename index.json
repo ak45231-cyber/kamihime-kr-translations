@@ -1,5 +1,5 @@
 {
-  "version": "2026-04-22T15:37:13.833Z",
+  "version": "2026-04-23T10:37:18.886Z",
   "engine": "category-split-with-meta",
   "files": [
     {
@@ -112,9 +112,9 @@
     {
       "name": "a_eidolons_meta.json",
       "sheet": "a_eidolons_meta",
-      "count": 381,
-      "hash": "2e7d64b7c53e145a",
-      "size": 191201
+      "count": 382,
+      "hash": "716c1dd9f3127bcf",
+      "size": 192169
     },
     {
       "name": "a_eirei_meta.json",
