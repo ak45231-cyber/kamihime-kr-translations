@@ -1,13 +1,13 @@
 {
-  "version": "2026-04-27T07:32:27.506Z",
+  "version": "2026-04-27T07:47:45.882Z",
   "engine": "category-split-with-meta",
   "files": [
     {
       "name": "a_characters.json",
       "sheet": "a_characters",
-      "count": 13716,
-      "hash": "c888be665756b251",
-      "size": 692091
+      "count": 13799,
+      "hash": "d950cd1453479c96",
+      "size": 696546
     },
     {
       "name": "a_characters.old.2026-04-22.json",
@@ -119,9 +119,9 @@
     {
       "name": "a_characters_meta.json",
       "sheet": "a_characters_meta",
-      "count": 6711,
-      "hash": "ae8ec2be1ed628ba",
-      "size": 1647255
+      "count": 6725,
+      "hash": "e4beac506f9faac0",
+      "size": 1651736
     },
     {
       "name": "a_eidolons_meta.json",
