@@ -2632,7 +2632,7 @@
     "parent_eirei_ko": "달타냥"
   },
   "神闘士の覇気": {
-    "name_ko": " 신투사의 패기",
+    "name_ko": "신투사의 패기",
     "type": "スキル",
     "effect_ja": "味方全体の属性攻撃力アップ",
     "effect_ko": "아군 전체의 속성 공격력 UP",
@@ -2643,10 +2643,10 @@
     "weapon_ko": "강부 네메아 스컬"
   },
   "豪傑の血脈": {
-    "name_ko": " 호걸의 혈맥",
+    "name_ko": "호걸의 혈맥",
     "type": "スキル",
     "effect_ja": "不撓不屈にバーストゲージアップ効果追加(+30%)",
-    "effect_ko": " 불요불굴에 버스트 게이지 UP 효과 추가(+30%)",
+    "effect_ko": "불요불굴에 버스트 게이지 UP 효과 추가(+30%)",
     "eirei_only": true,
     "parent_eirei_ja": "ヘラクレス",
     "parent_eirei_ko": "헤라클레스",
@@ -2659,18 +2659,18 @@
     "skills": [
       {
         "name_ja": "神闘士の覇気",
-        "name_ko": " 신투사의 패기"
+        "name_ko": "신투사의 패기"
       },
       {
         "name_ja": "豪傑の血脈",
-        "name_ko": " 호걸의 혈맥"
+        "name_ko": "호걸의 혈맥"
       }
     ],
     "parent_eirei_ja": "ヘラクレス",
     "parent_eirei_ko": "헤라클레스"
   },
   "神闘士の練気": {
-    "name_ko": " 신투사의 연기",
+    "name_ko": "신투사의 연기",
     "type": "スキル",
     "effect_ja": "属性キャラクターの最大HP上昇",
     "effect_ko": "속성 캐릭터의 최대 HP 상승",
@@ -2678,37 +2678,37 @@
     "parent_eirei_ja": "ヘラクレス",
     "parent_eirei_ko": "헤라클레스",
     "weapon_ja": "剛弓ヴェノムヒドラ",
-    "weapon_ko": " 강궁 베놈 히드라"
+    "weapon_ko": "강궁 베놈 히드라"
   },
   "神話の体現者": {
-    "name_ko": " 신화의 체현자",
+    "name_ko": "신화의 체현자",
     "type": "スキル",
     "effect_ja": "フルブレイクの効果量アップ",
-    "effect_ko": " 풀 브레이크의 효과량 UP",
+    "effect_ko": "풀 브레이크의 효과량 UP",
     "eirei_only": true,
     "parent_eirei_ja": "ヘラクレス",
     "parent_eirei_ko": "헤라클레스",
     "weapon_ja": "剛弓ヴェノムヒドラ",
-    "weapon_ko": " 강궁 베놈 히드라"
+    "weapon_ko": "강궁 베놈 히드라"
   },
   "剛弓ヴェノムヒドラ": {
-    "name_ko": " 강궁 베놈 히드라",
+    "name_ko": "강궁 베놈 히드라",
     "type": "eirei_weapon",
     "skills": [
       {
         "name_ja": "神闘士の練気",
-        "name_ko": " 신투사의 연기"
+        "name_ko": "신투사의 연기"
       },
       {
         "name_ja": "神話の体現者",
-        "name_ko": " 신화의 체현자"
+        "name_ko": "신화의 체현자"
       }
     ],
     "parent_eirei_ja": "ヘラクレス",
     "parent_eirei_ko": "헤라클레스"
   },
   "闇魔女の覇気": {
-    "name_ko": " 암마녀의 패기",
+    "name_ko": "암마녀의 패기",
     "type": "スキル",
     "effect_ja": "味方全体の属性攻撃力アップ",
     "effect_ko": "아군 전체의 속성 공격력 UP",
@@ -2716,37 +2716,37 @@
     "parent_eirei_ja": "モルガン",
     "parent_eirei_ko": "모르간",
     "weapon_ja": "魔杖エクスシース",
-    "weapon_ko": " 마장 엑스시스"
+    "weapon_ko": "마장 엑스시스"
   },
   "漆黒なる秘術": {
-    "name_ko": " 칠흑의 비술",
+    "name_ko": "칠흑의 비술",
     "type": "スキル",
     "effect_ja": "狂気の扇動の効果量アップ",
-    "effect_ko": " 광기의 선동의 효과량 UP",
+    "effect_ko": "광기의 선동의 효과량 UP",
     "eirei_only": true,
     "parent_eirei_ja": "モルガン",
     "parent_eirei_ko": "모르간",
     "weapon_ja": "魔杖エクスシース",
-    "weapon_ko": " 마장 엑스시스"
+    "weapon_ko": "마장 엑스시스"
   },
   "魔杖エクスシース": {
-    "name_ko": " 마장 엑스시스",
+    "name_ko": "마장 엑스시스",
     "type": "eirei_weapon",
     "skills": [
       {
         "name_ja": "闇魔女の覇気",
-        "name_ko": " 암마녀의 패기"
+        "name_ko": "암마녀의 패기"
       },
       {
         "name_ja": "漆黒なる秘術",
-        "name_ko": " 칠흑의 비술"
+        "name_ko": "칠흑의 비술"
       }
     ],
     "parent_eirei_ja": "モルガン",
     "parent_eirei_ko": "모르간"
   },
   "闇魔女の練気": {
-    "name_ko": " 암마녀의 연기",
+    "name_ko": "암마녀의 연기",
     "type": "スキル",
     "effect_ja": "属性キャラクターの最大HP上昇",
     "effect_ko": "속성 캐릭터의 최대 HP 상승",
@@ -2754,37 +2754,37 @@
     "parent_eirei_ja": "モルガン",
     "parent_eirei_ko": "모르간",
     "weapon_ja": "魔書アヴァロンエピック",
-    "weapon_ko": " 마서 아발론 에픽"
+    "weapon_ko": "마서 아발론 에픽"
   },
   "聖剣を包む繭": {
-    "name_ko": " 성검을 감싸는 고치",
+    "name_ko": "성검을 감싸는 고치",
     "type": "スキル",
     "effect_ja": "闘争への教唆発動時効果を自分にも適用",
-    "effect_ko": " 투쟁으로의 교사 발동 시 효과를 자신에게도 적용",
+    "effect_ko": "투쟁으로의 교사 발동 시 효과를 자신에게도 적용",
     "eirei_only": true,
     "parent_eirei_ja": "モルガン",
     "parent_eirei_ko": "모르간",
     "weapon_ja": "魔書アヴァロンエピック",
-    "weapon_ko": " 마서 아발론 에픽"
+    "weapon_ko": "마서 아발론 에픽"
   },
   "魔書アヴァロンエピック": {
-    "name_ko": " 마서 아발론 에픽",
+    "name_ko": "마서 아발론 에픽",
     "type": "eirei_weapon",
     "skills": [
       {
         "name_ja": "闇魔女の練気",
-        "name_ko": " 암마녀의 연기"
+        "name_ko": "암마녀의 연기"
       },
       {
         "name_ja": "聖剣を包む繭",
-        "name_ko": " 성검을 감싸는 고치"
+        "name_ko": "성검을 감싸는 고치"
       }
     ],
     "parent_eirei_ja": "モルガン",
     "parent_eirei_ko": "모르간"
   },
   "賢武将の覇気": {
-    "name_ko": " 현무장의 패기",
+    "name_ko": "현무장의 패기",
     "type": "スキル",
     "effect_ja": "味方全体の属性攻撃力アップ",
     "effect_ko": "아군 전체의 속성 공격력 UP",
@@ -2792,37 +2792,37 @@
     "parent_eirei_ja": "信玄",
     "parent_eirei_ko": "신겐",
     "weapon_ja": "天上天下武槍",
-    "weapon_ko": " 천상천하무창"
+    "weapon_ko": "천상천하무창"
   },
   "天下への覇道": {
-    "name_ko": " 천하를 향한 패도",
+    "name_ko": "천하를 향한 패도",
     "type": "スキル",
     "effect_ja": "侵火焔喝の効果量アップ(+35)",
-    "effect_ko": " 침화염갈의 효과량 UP(+35)",
+    "effect_ko": "침화염갈의 효과량 UP(+35)",
     "eirei_only": true,
     "parent_eirei_ja": "信玄",
     "parent_eirei_ko": "신겐",
     "weapon_ja": "天上天下武槍",
-    "weapon_ko": " 천상천하무창"
+    "weapon_ko": "천상천하무창"
   },
   "天上天下武槍": {
-    "name_ko": " 천상천하무창",
+    "name_ko": "천상천하무창",
     "type": "eirei_weapon",
     "skills": [
       {
         "name_ja": "賢武将の覇気",
-        "name_ko": " 현무장의 패기"
+        "name_ko": "현무장의 패기"
       },
       {
         "name_ja": "天下への覇道",
-        "name_ko": " 천하를 향한 패도"
+        "name_ko": "천하를 향한 패도"
       }
     ],
     "parent_eirei_ja": "信玄",
     "parent_eirei_ko": "신겐"
   },
   "賢武将の練気": {
-    "name_ko": " 현무장의 연기",
+    "name_ko": "현무장의 연기",
     "type": "スキル",
     "effect_ja": "属性キャラクターの最大HP上昇",
     "effect_ko": "속성 캐릭터의 최대 HP 상승",
@@ -2830,30 +2830,30 @@
     "parent_eirei_ja": "信玄",
     "parent_eirei_ko": "신겐",
     "weapon_ja": "天下無双神弓",
-    "weapon_ko": " 천하무쌍신궁"
+    "weapon_ko": "천하무쌍신궁"
   },
   "鬨の咆哮": {
-    "name_ko": " 함성의 포효",
+    "name_ko": "함성의 포효",
     "type": "スキル",
     "effect_ja": "備襲如林の効果量アップ",
-    "effect_ko": " 비습여림의 효과량 UP",
+    "effect_ko": "비습여림의 효과량 UP",
     "eirei_only": true,
     "parent_eirei_ja": "信玄",
     "parent_eirei_ko": "신겐",
     "weapon_ja": "天下無双神弓",
-    "weapon_ko": " 천하무쌍신궁"
+    "weapon_ko": "천하무쌍신궁"
   },
   "天下無双神弓": {
-    "name_ko": " 천하무쌍신궁",
+    "name_ko": "천하무쌍신궁",
     "type": "eirei_weapon",
     "skills": [
       {
         "name_ja": "賢武将の練気",
-        "name_ko": " 현무장의 연기"
+        "name_ko": "현무장의 연기"
       },
       {
         "name_ja": "鬨の咆哮",
-        "name_ko": " 함성의 포효"
+        "name_ko": "함성의 포효"
       }
     ],
     "parent_eirei_ja": "信玄",
