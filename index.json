@@ -1,13 +1,13 @@
 {
-  "version": "2026-04-23T10:37:18.886Z",
+  "version": "2026-04-27T05:03:47.841Z",
   "engine": "category-split-with-meta",
   "files": [
     {
       "name": "a_characters.json",
       "sheet": "a_characters",
-      "count": 9049,
-      "hash": "8940344c3c5a6b0f",
-      "size": 502072
+      "count": 9121,
+      "hash": "c5b53951d80f45a4",
+      "size": 508624
     },
     {
       "name": "a_characters.old.2026-04-22.json",
@@ -26,9 +26,9 @@
     {
       "name": "a_eidolons.json",
       "sheet": "a_eidolons",
-      "count": 2518,
-      "hash": "f6d942dbcf8b0ac6",
-      "size": 163059
+      "count": 2555,
+      "hash": "599bf1c0b78d703a",
+      "size": 163498
     },
     {
       "name": "a_eidolons.old.2026-04-22.json",
@@ -38,11 +38,18 @@
       "size": 2
     },
     {
+      "name": "a_eirei_weapons.json",
+      "sheet": "a_eirei_weapons",
+      "count": 356,
+      "hash": "1f5823a233bf7cac",
+      "size": 13759
+    },
+    {
       "name": "a_eirei.json",
       "sheet": "a_eirei",
-      "count": 565,
-      "hash": "3d11eb266baeba2c",
-      "size": 21508
+      "count": 639,
+      "hash": "26c6af11904df8e4",
+      "size": 26359
     },
     {
       "name": "a_eirei.old.2026-04-22.json",
@@ -66,11 +73,18 @@
       "size": 712
     },
     {
+      "name": "a_weapon_skills.json",
+      "sheet": "a_weapon_skills",
+      "count": 958,
+      "hash": "2803d1732976b3f1",
+      "size": 46139
+    },
+    {
       "name": "a_weapons.json",
       "sheet": "a_weapons",
-      "count": 0,
-      "hash": "44136fa355b3678a",
-      "size": 2
+      "count": 718,
+      "hash": "69ad35ade29489f5",
+      "size": 25792
     },
     {
       "name": "a_weapons.old.2026-04-22.json",
@@ -105,9 +119,9 @@
     {
       "name": "a_characters_meta.json",
       "sheet": "a_characters_meta",
-      "count": 4162,
-      "hash": "a7ecac32ae218df1",
-      "size": 1025750
+      "count": 4196,
+      "hash": "15c15414896767a7",
+      "size": 1080181
     },
     {
       "name": "a_eidolons_meta.json",
@@ -119,9 +133,30 @@
     {
       "name": "a_eirei_meta.json",
       "sheet": "a_eirei_meta",
-      "count": 275,
-      "hash": "863592b0e3b737c6",
-      "size": 56624
+      "count": 305,
+      "hash": "c1efaa515bb44abc",
+      "size": 70685
+    },
+    {
+      "name": "a_eirei_weapons_meta.json",
+      "sheet": "a_eirei_weapons_meta",
+      "count": 210,
+      "hash": "1595686d7e7c15f6",
+      "size": 71273
+    },
+    {
+      "name": "a_weapon_skills_meta.json",
+      "sheet": "a_weapon_skills_meta",
+      "count": 345,
+      "hash": "f07c1780912e6b0a",
+      "size": 95977
+    },
+    {
+      "name": "a_weapons_meta.json",
+      "sheet": "a_weapons_meta",
+      "count": 474,
+      "hash": "d3f18897c9d4d319",
+      "size": 184707
     }
   ]
 }

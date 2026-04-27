@@ -1,0 +1,2862 @@
+{
+  "武征王の覇気": {
+    "name_ko": "무정왕의 패기",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃力UP",
+    "effect_ko": "아군 전체의 속성 공격력 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "シャルルマーニュ",
+    "parent_eirei_ko": "샤를마뉴",
+    "weapon_ja": "王剣カロリング",
+    "weapon_ko": "왕검 카롤링"
+  },
+  "武征王の覇気+": {
+    "name_ko": "무정왕의 패기+",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃UP/属性キャラの最終ダメージUP(5%)",
+    "effect_ko": "아군 전체의 속성 공격 UP/속성 캐릭터의 최종 데미지 UP(5%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "シャルルマーニュ",
+    "parent_eirei_ko": "샤를마뉴",
+    "weapon_ja": "王剣カロリング",
+    "weapon_ko": "왕검 카롤링"
+  },
+  "帝王の威光": {
+    "name_ko": "제왕의 위광",
+    "type": "スキル",
+    "effect_ja": "英霊のバースト性能UP",
+    "effect_ko": "영령의 버스트 성능 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "シャルルマーニュ",
+    "parent_eirei_ko": "샤를마뉴",
+    "weapon_ja": "王剣カロリング",
+    "weapon_ko": "왕검 카롤링"
+  },
+  "帝王の威光+": {
+    "name_ko": "제왕의 위광+",
+    "type": "スキル",
+    "effect_ja": "英霊のバースト性能UP/シャルルマーニュのステータスUP",
+    "effect_ko": "영령의 버스트 성능 UP/샤를마뉴의 스테이터스 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "シャルルマーニュ",
+    "parent_eirei_ko": "샤를마뉴",
+    "weapon_ja": "王剣カロリング",
+    "weapon_ko": "왕검 카롤링"
+  },
+  "王剣カロリング": {
+    "name_ko": "왕검 카롤링",
+    "type": "eirei_weapon",
+    "burst_ja": "属性ダメージ(極大)/味方全体の自属性攻撃UP(2T)",
+    "burst_ko": "속성 데미지(극대)/아군 전체의 자속성 공격 UP(2턴)",
+    "skills": [
+      {
+        "name_ja": "武征王の覇気",
+        "name_ko": "무정왕의 패기"
+      },
+      {
+        "name_ja": "武征王の覇気+",
+        "name_ko": "무정왕의 패기+"
+      },
+      {
+        "name_ja": "帝王の威光",
+        "name_ko": "제왕의 위광"
+      },
+      {
+        "name_ja": "帝王の威光+",
+        "name_ko": "제왕의 위광+"
+      }
+    ],
+    "parent_eirei_ja": "シャルルマーニュ",
+    "parent_eirei_ko": "샤를마뉴"
+  },
+  "武征王の錬気": {
+    "name_ko": "무정왕의 연기",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターのHPUP",
+    "effect_ko": "속성 캐릭터의 HP UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "シャルルマーニュ",
+    "parent_eirei_ko": "샤를마뉴",
+    "weapon_ja": "帝斧ブルートガング",
+    "weapon_ko": "제부 브루트강"
+  },
+  "武征王の錬気+": {
+    "name_ko": "무정왕의 연기+",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターのHPUP/属性キャラの最終ダメージUP(5%)",
+    "effect_ko": "속성 캐릭터의 HP UP/속성 캐릭터의 최종 데미지 UP(5%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "シャルルマーニュ",
+    "parent_eirei_ko": "샤를마뉴",
+    "weapon_ja": "帝斧ブルートガング",
+    "weapon_ko": "제부 브루트강"
+  },
+  "覇者の親征": {
+    "name_ko": "패자의 친정",
+    "type": "スキル",
+    "effect_ja": "モラルエンカレッジの効果量UP",
+    "effect_ko": "모랄 엔커리지의 효과량 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "シャルルマーニュ",
+    "parent_eirei_ko": "샤를마뉴",
+    "weapon_ja": "帝斧ブルートガング",
+    "weapon_ko": "제부 브루트강"
+  },
+  "覇者の親征+": {
+    "name_ko": "패자의 친정+",
+    "type": "スキル",
+    "effect_ja": "モラルエンカレッジの効果量UP/シャルルマーニュのステータスUP",
+    "effect_ko": "모랄 엔커리지의 효과량 UP/샤를마뉴의 스테이터스 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "シャルルマーニュ",
+    "parent_eirei_ko": "샤를마뉴",
+    "weapon_ja": "帝斧ブルートガング",
+    "weapon_ko": "제부 브루트강"
+  },
+  "帝斧ブルートガング": {
+    "name_ko": "제부 브루트강",
+    "type": "eirei_weapon",
+    "burst_ja": "属性ダメージ(極大)/味方全体の自属性攻撃UP(2T)",
+    "burst_ko": "속성 데미지(극대)/아군 전체의 자속성 공격 UP(2턴)",
+    "skills": [
+      {
+        "name_ja": "武征王の錬気",
+        "name_ko": "무정왕의 연기"
+      },
+      {
+        "name_ja": "武征王の錬気+",
+        "name_ko": "무정왕의 연기+"
+      },
+      {
+        "name_ja": "覇者の親征",
+        "name_ko": "패자의 친정"
+      },
+      {
+        "name_ja": "覇者の親征+",
+        "name_ko": "패자의 친정+"
+      }
+    ],
+    "parent_eirei_ja": "シャルルマーニュ",
+    "parent_eirei_ko": "샤를마뉴"
+  },
+  "興国土の覇気": {
+    "name_ko": "흥국토의 패기",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃UP",
+    "effect_ko": "아군 전체의 속성 공격 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "ロムルス",
+    "parent_eirei_ko": "로물루스",
+    "weapon_ja": "勇剣アエネアス",
+    "weapon_ko": "용검 아이네아스"
+  },
+  "興国土の覇気+": {
+    "name_ko": "흥국토의 패기+",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃UP/属性キャラの最終ダメージUP(5%)",
+    "effect_ko": "아군 전체의 속성 공격 UP/속성 캐릭터의 최종 데미지 UP(5%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "ロムルス",
+    "parent_eirei_ko": "로물루스",
+    "weapon_ja": "勇剣アエネアス",
+    "weapon_ko": "용검 아이네아스"
+  },
+  "堅忍不抜の志": {
+    "name_ko": "견인불발의 뜻",
+    "type": "スキル",
+    "effect_ja": "クストススピリトスの使用間隔1ターン短縮",
+    "effect_ko": "쿠스토스 스피리투스의 사용 간격 1턴 단축",
+    "eirei_only": true,
+    "parent_eirei_ja": "ロムルス",
+    "parent_eirei_ko": "로물루스",
+    "weapon_ja": "勇剣アエネアス",
+    "weapon_ko": "용검 아이네아스"
+  },
+  "堅忍不抜の志+": {
+    "name_ko": "견인불발의 뜻+",
+    "type": "スキル",
+    "effect_ja": "クストススピリトスの使用間隔1ターン短縮/ロムルスのステータスUP",
+    "effect_ko": "쿠스토스 스피리투스의 사용 간격 1턴 단축/로물루스의 스테이터스 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "ロムルス",
+    "parent_eirei_ko": "로물루스",
+    "weapon_ja": "勇剣アエネアス",
+    "weapon_ko": "용검 아이네아스"
+  },
+  "勇剣アエネアス": {
+    "name_ko": "용검 아이네아스",
+    "type": "eirei_weapon",
+    "burst_ja": "属性ダメージ(極大)/自分の被ダメージカット",
+    "burst_ko": "속성 데미지(극대)/자신의 받는 데미지 컷",
+    "skills": [
+      {
+        "name_ja": "興国土の覇気",
+        "name_ko": "흥국토의 패기"
+      },
+      {
+        "name_ja": "興国土の覇気+",
+        "name_ko": "흥국토의 패기+"
+      },
+      {
+        "name_ja": "堅忍不抜の志",
+        "name_ko": "견인불발의 뜻"
+      },
+      {
+        "name_ja": "堅忍不抜の志+",
+        "name_ko": "견인불발의 뜻+"
+      }
+    ],
+    "parent_eirei_ja": "ロムルス",
+    "parent_eirei_ko": "로물루스"
+  },
+  "興国土の練気": {
+    "name_ko": "흥국토의 연기",
+    "type": "スキル",
+    "effect_ja": "自属性キャラクターの最大HPUP(極大)",
+    "effect_ko": "자속성 캐릭터의 최대 HP UP(극대)",
+    "eirei_only": true,
+    "parent_eirei_ja": "ロムルス",
+    "parent_eirei_ko": "로물루스",
+    "weapon_ja": "覇槍アルバロンガ",
+    "weapon_ko": "패창 알바롱가"
+  },
+  "興国土の練気+": {
+    "name_ko": "흥국토의 연기+",
+    "type": "スキル",
+    "effect_ja": "自属性キャラクターの最大HPUP(極大)/属性キャラの最終ダメージUP(5%)",
+    "effect_ko": "자속성 캐릭터의 최대 HP UP(극대)/속성 캐릭터의 최종 데미지 UP(5%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "ロムルス",
+    "parent_eirei_ko": "로물루스",
+    "weapon_ja": "覇槍アルバロンガ",
+    "weapon_ko": "패창 알바롱가"
+  },
+  "金城鉄壁の体現": {
+    "name_ko": "금성철벽의 체현",
+    "type": "スキル",
+    "effect_ja": "英霊の被ダメージカット(20%)",
+    "effect_ko": "영령의 받는 데미지 컷(20%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "ロムルス",
+    "parent_eirei_ko": "로물루스",
+    "weapon_ja": "覇槍アルバロンガ",
+    "weapon_ko": "패창 알바롱가"
+  },
+  "金城鉄壁の体現+": {
+    "name_ko": "금성철벽의 체현+",
+    "type": "スキル",
+    "effect_ja": "英霊の被ダメージカット(20%)/ロムルスのステータスUP",
+    "effect_ko": "영령의 받는 데미지 컷(20%)/로물루스의 스테이터스 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "ロムルス",
+    "parent_eirei_ko": "로물루스",
+    "weapon_ja": "覇槍アルバロンガ",
+    "weapon_ko": "패창 알바롱가"
+  },
+  "覇槍アルバロンガ": {
+    "name_ko": "패창 알바롱가",
+    "type": "eirei_weapon",
+    "burst_ja": "属性ダメージ(極大)/自分の被ダメージカット",
+    "burst_ko": "속성 데미지(극대)/자신의 받는 데미지 컷",
+    "skills": [
+      {
+        "name_ja": "興国土の練気",
+        "name_ko": "흥국토의 연기"
+      },
+      {
+        "name_ja": "興国土の練気+",
+        "name_ko": "흥국토의 연기+"
+      },
+      {
+        "name_ja": "金城鉄壁の体現",
+        "name_ko": "금성철벽의 체현"
+      },
+      {
+        "name_ja": "金城鉄壁の体現+",
+        "name_ko": "금성철벽의 체현+"
+      }
+    ],
+    "parent_eirei_ja": "ロムルス",
+    "parent_eirei_ko": "로물루스"
+  },
+  "神癒者の覇気": {
+    "name_ko": "신유자의 패기",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃力UP",
+    "effect_ko": "아군 전체의 속성 공격력 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "アスクレピオス",
+    "parent_eirei_ko": "아스클레피오스",
+    "weapon_ja": "癒杖アスクラピア",
+    "weapon_ko": "유장 아스클레피아"
+  },
+  "神癒者の覇気+": {
+    "name_ko": "신유자의 패기+",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃UP/属性キャラの最終ダメージUP(5%)",
+    "effect_ko": "아군 전체의 속성 공격 UP/속성 캐릭터의 최종 데미지 UP(5%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "アスクレピオス",
+    "parent_eirei_ko": "아스클레피오스",
+    "weapon_ja": "癒杖アスクラピア",
+    "weapon_ko": "유장 아스클레피아"
+  },
+  "思慮深き看破": {
+    "name_ko": "사려 깊은 간파",
+    "type": "スキル",
+    "effect_ja": "シビラインリカバリーに参戦者の状態異常1つ回復を追加",
+    "effect_ko": "시빌라인 리커버리에 참전자의 상태 이상 1개 회복 추가",
+    "eirei_only": true,
+    "parent_eirei_ja": "アスクレピオス",
+    "parent_eirei_ko": "아스클레피오스",
+    "weapon_ja": "癒杖アスクラピア",
+    "weapon_ko": "유장 아스클레피아"
+  },
+  "思慮深き看破+": {
+    "name_ko": "사려 깊은 간파+",
+    "type": "スキル",
+    "effect_ja": "シビラインリカバリーに参戦者の状態異常1つ回復を追加/アスクレピオスのステータスUP",
+    "effect_ko": "시빌라인 리커버리에 참전자의 상태 이상 1개 회복 추가/아스클레피오스의 스테이터스 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "アスクレピオス",
+    "parent_eirei_ko": "아스클레피오스",
+    "weapon_ja": "癒杖アスクラピア",
+    "weapon_ko": "유장 아스클레피아"
+  },
+  "癒杖アスクラピア": {
+    "name_ko": "유장 아스클레피아",
+    "type": "eirei_weapon",
+    "burst_ja": "属性ダメージ(極大)/味方全体の回復上限UP(3T)",
+    "burst_ko": "속성 데미지(극대)/아군 전체의 회복 상한 UP(3턴)",
+    "skills": [
+      {
+        "name_ja": "神癒者の覇気",
+        "name_ko": "신유자의 패기"
+      },
+      {
+        "name_ja": "神癒者の覇気+",
+        "name_ko": "신유자의 패기+"
+      },
+      {
+        "name_ja": "思慮深き看破",
+        "name_ko": "사려 깊은 간파"
+      },
+      {
+        "name_ja": "思慮深き看破+",
+        "name_ko": "사려 깊은 간파+"
+      }
+    ],
+    "parent_eirei_ja": "アスクレピオス",
+    "parent_eirei_ko": "아스클레피오스"
+  },
+  "神癒者の練気": {
+    "name_ko": "신유자의 연기",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HPUP（極大）",
+    "effect_ko": "속성 캐릭터의 최대 HP UP(극대)",
+    "eirei_only": true,
+    "parent_eirei_ja": "アスクレピオス",
+    "parent_eirei_ko": "아스클레피오스",
+    "weapon_ja": "杯槍ヒュギエイア",
+    "weapon_ko": "배창 휘기에이아"
+  },
+  "神癒者の練気+": {
+    "name_ko": "신유자의 연기+",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HPUP（極大）/属性キャラの最終ダメージUP(5%)",
+    "effect_ko": "속성 캐릭터의 최대 HP UP(극대)/속성 캐릭터의 최종 데미지 UP(5%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "アスクレピオス",
+    "parent_eirei_ko": "아스클레피오스",
+    "weapon_ja": "杯槍ヒュギエイア",
+    "weapon_ko": "배창 휘기에이아"
+  },
+  "寄り添う恩籠": {
+    "name_ko": "곁에 머무는 은총",
+    "type": "スキル",
+    "effect_ja": "シビラインリカバリーに味方全体リジェネ追加(350/3T)",
+    "effect_ko": "시빌라인 리커버리에 아군 전체 리젠 추가(350/3턴)",
+    "eirei_only": true,
+    "parent_eirei_ja": "アスクレピオス",
+    "parent_eirei_ko": "아스클레피오스",
+    "weapon_ja": "杯槍ヒュギエイア",
+    "weapon_ko": "배창 휘기에이아"
+  },
+  "寄り添う恩籠+": {
+    "name_ko": "곁에 머무는 은총+",
+    "type": "スキル",
+    "effect_ja": "シビラインリカバリーに味方全体リジェネ追加(350/3T)/アスクレピオスのステータスUP",
+    "effect_ko": "시빌라인 리커버리에 아군 전체 리젠 추가(350/3턴)/아스클레피오스의 스테이터스 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "アスクレピオス",
+    "parent_eirei_ko": "아스클레피오스",
+    "weapon_ja": "杯槍ヒュギエイア",
+    "weapon_ko": "배창 휘기에이아"
+  },
+  "杯槍ヒュギエイア": {
+    "name_ko": "배창 휘기에이아",
+    "type": "eirei_weapon",
+    "burst_ja": "属性ダメージ(極大)/味方全体の回復上限UP(3T)",
+    "burst_ko": "속성 데미지(극대)/아군 전체의 회복 상한 UP(3턴)",
+    "skills": [
+      {
+        "name_ja": "神癒者の練気",
+        "name_ko": "신유자의 연기"
+      },
+      {
+        "name_ja": "神癒者の練気+",
+        "name_ko": "신유자의 연기+"
+      },
+      {
+        "name_ja": "寄り添う恩籠",
+        "name_ko": "곁에 머무는 은총"
+      },
+      {
+        "name_ja": "寄り添う恩籠+",
+        "name_ko": "곁에 머무는 은총+"
+      }
+    ],
+    "parent_eirei_ja": "アスクレピオス",
+    "parent_eirei_ko": "아스클레피오스"
+  },
+  "魔妖女の覇気": {
+    "name_ko": "마요녀의 패기",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃UP",
+    "effect_ko": "아군 전체의 속성 공격 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "メディア",
+    "parent_eirei_ko": "메데이아",
+    "weapon_ja": "法剣アルゴノーツ",
+    "weapon_ko": "법검 아르고노츠"
+  },
+  "魔妖女の覇気+": {
+    "name_ko": "마요녀의 패기+",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃UP/属性キャラの最終ダメージUP(5%)",
+    "effect_ko": "아군 전체의 속성 공격 UP/속성 캐릭터의 최종 데미지 UP(5%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "メディア",
+    "parent_eirei_ko": "메데이아",
+    "weapon_ja": "法剣アルゴノーツ",
+    "weapon_ko": "법검 아르고노츠"
+  },
+  "拡散する思慕": {
+    "name_ko": "확산되는 사모",
+    "type": "スキル",
+    "effect_ja": "一途な執念の効果対象を全体化",
+    "effect_ko": "일편단심 집념의 효과 대상을 전체화",
+    "eirei_only": true,
+    "parent_eirei_ja": "メディア",
+    "parent_eirei_ko": "메데이아",
+    "weapon_ja": "法剣アルゴノーツ",
+    "weapon_ko": "법검 아르고노츠"
+  },
+  "拡散する思慕+": {
+    "name_ko": "확산되는 사모+",
+    "type": "スキル",
+    "effect_ja": "一途な執念の効果対象を全体化/メディアのステータスUP",
+    "effect_ko": "일편단심 집념의 효과 대상을 전체화/메데이아의 스테이터스 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "メディア",
+    "parent_eirei_ko": "메데이아",
+    "weapon_ja": "法剣アルゴノーツ",
+    "weapon_ko": "법검 아르고노츠"
+  },
+  "法剣アルゴノーツ": {
+    "name_ko": "법검 아르고노츠",
+    "type": "eirei_weapon",
+    "burst_ja": "属性ダメージ(極大)/自分のアビリティ再使用間隔を1ターン短縮",
+    "burst_ko": "속성 데미지(극대)/자신의 어빌리티 재사용 간격을 1턴 단축",
+    "skills": [
+      {
+        "name_ja": "魔妖女の覇気",
+        "name_ko": "마요녀의 패기"
+      },
+      {
+        "name_ja": "魔妖女の覇気+",
+        "name_ko": "마요녀의 패기+"
+      },
+      {
+        "name_ja": "拡散する思慕",
+        "name_ko": "확산되는 사모"
+      },
+      {
+        "name_ja": "拡散する思慕+",
+        "name_ko": "확산되는 사모+"
+      }
+    ],
+    "parent_eirei_ja": "メディア",
+    "parent_eirei_ko": "메데이아"
+  },
+  "魔妖女の錬気": {
+    "name_ko": "마요녀의 연기",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HPUP（極大）",
+    "effect_ko": "속성 캐릭터의 최대 HP UP(극대)",
+    "eirei_only": true,
+    "parent_eirei_ja": "メディア",
+    "parent_eirei_ko": "메데이아",
+    "weapon_ja": "術杖コルキパピルス",
+    "weapon_ko": "술장 콜키 파피루스"
+  },
+  "魔妖女の錬気+": {
+    "name_ko": "마요녀의 연기+",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HPUP（極大）/属性キャラの最終ダメージUP(5%)",
+    "effect_ko": "속성 캐릭터의 최대 HP UP(극대)/속성 캐릭터의 최종 데미지 UP(5%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "メディア",
+    "parent_eirei_ko": "메데이아",
+    "weapon_ja": "術杖コルキパピルス",
+    "weapon_ko": "술장 콜키 파피루스"
+  },
+  "昇華する妄執": {
+    "name_ko": "승화하는 망집",
+    "type": "スキル",
+    "effect_ja": "ターン終了時に確率で一途な執念の使用間隔短縮",
+    "effect_ko": "턴 종료 시 확률로 일편단심 집념의 사용 간격 단축",
+    "eirei_only": true,
+    "parent_eirei_ja": "メディア",
+    "parent_eirei_ko": "메데이아",
+    "weapon_ja": "術杖コルキパピルス",
+    "weapon_ko": "술장 콜키 파피루스"
+  },
+  "昇華する妄執+": {
+    "name_ko": "승화하는 망집+",
+    "type": "スキル",
+    "effect_ja": "ターン終了時に確率で一途な執念の使用間隔短縮/メディアのステータスUP",
+    "effect_ko": "턴 종료 시 확률로 일편단심 집념의 사용 간격 단축/메데이아의 스테이터스 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "メディア",
+    "parent_eirei_ko": "메데이아",
+    "weapon_ja": "術杖コルキパピルス",
+    "weapon_ko": "술장 콜키 파피루스"
+  },
+  "術杖コルキパピルス": {
+    "name_ko": "술장 콜키 파피루스",
+    "type": "eirei_weapon",
+    "burst_ja": "属性ダメージ(極大)/自分のアビリティ再使用間隔を1ターン短縮",
+    "burst_ko": "속성 데미지(극대)/자신의 어빌리티 재사용 간격을 1턴 단축",
+    "skills": [
+      {
+        "name_ja": "魔妖女の錬気",
+        "name_ko": "마요녀의 연기"
+      },
+      {
+        "name_ja": "魔妖女の錬気+",
+        "name_ko": "마요녀의 연기+"
+      },
+      {
+        "name_ja": "昇華する妄執",
+        "name_ko": "승화하는 망집"
+      },
+      {
+        "name_ja": "昇華する妄執+",
+        "name_ko": "승화하는 망집+"
+      }
+    ],
+    "parent_eirei_ja": "メディア",
+    "parent_eirei_ko": "메데이아"
+  },
+  "狂騎士の覇気": {
+    "name_ko": "광기사의 패기",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃UP",
+    "effect_ko": "아군 전체의 속성 공격 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "ヘクトル",
+    "parent_eirei_ko": "헥토르",
+    "weapon_ja": "悠刃ドゥリンダナ",
+    "weapon_ko": "유인 두린다나"
+  },
+  "狂騎士の覇気+": {
+    "name_ko": "광기사의 패기+",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃UP/属性キャラの最終ダメージUP(5%)",
+    "effect_ko": "아군 전체의 속성 공격 UP/속성 캐릭터의 최종 데미지 UP(5%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "ヘクトル",
+    "parent_eirei_ko": "헥토르",
+    "weapon_ja": "悠刃ドゥリンダナ",
+    "weapon_ko": "유인 두린다나"
+  },
+  "無情なる宿怨": {
+    "name_ko": "무정한 숙원",
+    "type": "スキル",
+    "effect_ja": "味方全体がスタン状態の敵へ確実に連続攻撃",
+    "effect_ko": "아군 전체가 스턴 상태인 적에게 확실하게 연속 공격",
+    "eirei_only": true,
+    "parent_eirei_ja": "ヘクトル",
+    "parent_eirei_ko": "헥토르",
+    "weapon_ja": "悠刃ドゥリンダナ",
+    "weapon_ko": "유인 두린다나"
+  },
+  "無情なる宿怨+": {
+    "name_ko": "무정한 숙원+",
+    "type": "スキル",
+    "effect_ja": "味方全体がスタン状態の敵へ確実に連続攻撃/ヘクトルのステータスUP",
+    "effect_ko": "아군 전체가 스턴 상태인 적에게 확실하게 연속 공격/헥토르의 스테이터스 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "ヘクトル",
+    "parent_eirei_ko": "헥토르",
+    "weapon_ja": "悠刃ドゥリンダナ",
+    "weapon_ko": "유인 두린다나"
+  },
+  "悠刃ドゥリンダナ": {
+    "name_ko": "유인 두린다나",
+    "type": "eirei_weapon",
+    "burst_ja": "属性ダメージ(極大)/敵の状態に応じて追加ダメージ",
+    "burst_ko": "속성 데미지(극대)/적의 상태에 따라 추가 데미지",
+    "skills": [
+      {
+        "name_ja": "狂騎士の覇気",
+        "name_ko": "광기사의 패기"
+      },
+      {
+        "name_ja": "狂騎士の覇気+",
+        "name_ko": "광기사의 패기+"
+      },
+      {
+        "name_ja": "無情なる宿怨",
+        "name_ko": "무정한 숙원"
+      },
+      {
+        "name_ja": "無情なる宿怨+",
+        "name_ko": "무정한 숙원+"
+      }
+    ],
+    "parent_eirei_ja": "ヘクトル",
+    "parent_eirei_ko": "헥토르"
+  },
+  "狂騎士の錬気": {
+    "name_ko": "광기사의 연기",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HPUP（極大）",
+    "effect_ko": "속성 캐릭터의 최대 HP UP(극대)",
+    "eirei_only": true,
+    "parent_eirei_ja": "ヘクトル",
+    "parent_eirei_ko": "헥토르",
+    "weapon_ja": "永鎚パラディウム",
+    "weapon_ko": "영추 팔라디움"
+  },
+  "狂騎士の錬気+": {
+    "name_ko": "광기사의 연기+",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HPUP（極大）/属性キャラの最終ダメージUP(5%)",
+    "effect_ko": "속성 캐릭터의 최대 HP UP(극대)/속성 캐릭터의 최종 데미지 UP(5%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "ヘクトル",
+    "parent_eirei_ko": "헥토르",
+    "weapon_ja": "永鎚パラディウム",
+    "weapon_ko": "영추 팔라디움"
+  },
+  "狂乱の憤激": {
+    "name_ko": "광란의 분격",
+    "type": "スキル",
+    "effect_ja": "ヘクトルがレイジング状態の敵へ追襲効果(30%、上限150,000)",
+    "effect_ko": "헥토르가 레이징 상태인 적에게 추습 효과(30%, 상한 150,000)",
+    "eirei_only": true,
+    "parent_eirei_ja": "ヘクトル",
+    "parent_eirei_ko": "헥토르",
+    "weapon_ja": "永鎚パラディウム",
+    "weapon_ko": "영추 팔라디움"
+  },
+  "狂乱の憤激+": {
+    "name_ko": "광란의 분격+",
+    "type": "スキル",
+    "effect_ja": "ヘクトルがレイジング状態の敵へ追襲効果(30%、上限150,000)/ヘクトルのステータスUP",
+    "effect_ko": "헥토르가 레이징 상태인 적에게 추습 효과(30%, 상한 150,000)/헥토르의 스테이터스 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "ヘクトル",
+    "parent_eirei_ko": "헥토르",
+    "weapon_ja": "永鎚パラディウム",
+    "weapon_ko": "영추 팔라디움"
+  },
+  "永鎚パラディウム": {
+    "name_ko": "영추 팔라디움",
+    "type": "eirei_weapon",
+    "burst_ja": "属性ダメージ(極大)/敵の状態に応じて追加ダメージ",
+    "burst_ko": "속성 데미지(극대)/적의 상태에 따라 추가 데미지",
+    "skills": [
+      {
+        "name_ja": "狂騎士の錬気",
+        "name_ko": "광기사의 연기"
+      },
+      {
+        "name_ja": "狂騎士の錬気+",
+        "name_ko": "광기사의 연기+"
+      },
+      {
+        "name_ja": "狂乱の憤激",
+        "name_ko": "광란의 분격"
+      },
+      {
+        "name_ja": "狂乱の憤激+",
+        "name_ko": "광란의 분격+"
+      }
+    ],
+    "parent_eirei_ja": "ヘクトル",
+    "parent_eirei_ko": "헥토르"
+  },
+  "護国士の覇気": {
+    "name_ko": "호국사의 패기",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃UP",
+    "effect_ko": "아군 전체의 속성 공격 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "ペルセウス",
+    "parent_eirei_ko": "페르세우스",
+    "weapon_ja": "神剣サイプレス",
+    "weapon_ko": "신검 사이프러스"
+  },
+  "護国士の覇気+": {
+    "name_ko": "호국사의 패기+",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃UP/属性キャラの最終ダメージUP(5%)",
+    "effect_ko": "아군 전체의 속성 공격 UP/속성 캐릭터의 최종 데미지 UP(5%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "ペルセウス",
+    "parent_eirei_ko": "페르세우스",
+    "weapon_ja": "神剣サイプレス",
+    "weapon_ko": "신검 사이프러스"
+  },
+  "容赦なき猛襲": {
+    "name_ko": "용서 없는 맹습",
+    "type": "スキル",
+    "effect_ja": "マルチプルイロージョンの使用間隔3ターン短縮",
+    "effect_ko": "멀티플 이로전의 사용 간격 3턴 단축",
+    "eirei_only": true,
+    "parent_eirei_ja": "ペルセウス",
+    "parent_eirei_ko": "페르세우스",
+    "weapon_ja": "神剣サイプレス",
+    "weapon_ko": "신검 사이프러스"
+  },
+  "容赦なき猛襲+": {
+    "name_ko": "용서 없는 맹습+",
+    "type": "スキル",
+    "effect_ja": "マルチプルイロージョンの使用間隔3ターン短縮/ペルセウスのステータスUP",
+    "effect_ko": "멀티플 이로전의 사용 간격 3턴 단축/페르세우스의 스테이터스 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "ペルセウス",
+    "parent_eirei_ko": "페르세우스",
+    "weapon_ja": "神剣サイプレス",
+    "weapon_ko": "신검 사이프러스"
+  },
+  "神剣サイプレス": {
+    "name_ko": "신검 사이프러스",
+    "type": "eirei_weapon",
+    "burst_ja": "属性ダメージ(極大)/強化効果を1つ消去",
+    "burst_ko": "속성 데미지(극대)/강화 효과를 1개 소거",
+    "skills": [
+      {
+        "name_ja": "護国士の覇気",
+        "name_ko": "호국사의 패기"
+      },
+      {
+        "name_ja": "護国士の覇気+",
+        "name_ko": "호국사의 패기+"
+      },
+      {
+        "name_ja": "容赦なき猛襲",
+        "name_ko": "용서 없는 맹습"
+      },
+      {
+        "name_ja": "容赦なき猛襲+",
+        "name_ko": "용서 없는 맹습+"
+      }
+    ],
+    "parent_eirei_ja": "ペルセウス",
+    "parent_eirei_ko": "페르세우스"
+  },
+  "護国士の錬気": {
+    "name_ko": "호국사의 연기",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HPUP（極大）",
+    "effect_ko": "속성 캐릭터의 최대 HP UP(극대)",
+    "eirei_only": true,
+    "parent_eirei_ja": "ペルセウス",
+    "parent_eirei_ko": "페르세우스",
+    "weapon_ja": "戦刃フリソススパスィ",
+    "weapon_ko": "전인 프릭소스 스파시"
+  },
+  "護国士の錬気+": {
+    "name_ko": "호국사의 연기+",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HPUP（極大）/属性キャラの最終ダメージUP(5%)",
+    "effect_ko": "속성 캐릭터의 최대 HP UP(극대)/속성 캐릭터의 최종 데미지 UP(5%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "ペルセウス",
+    "parent_eirei_ko": "페르세우스",
+    "weapon_ja": "戦刃フリソススパスィ",
+    "weapon_ko": "전인 프릭소스 스파시"
+  },
+  "打破の慧眼": {
+    "name_ko": "타파의 혜안",
+    "type": "スキル",
+    "effect_ja": "英霊の状態異常付与率を1.2倍にUP",
+    "effect_ko": "영령의 상태 이상 부여율을 1.2배로 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "ペルセウス",
+    "parent_eirei_ko": "페르세우스",
+    "weapon_ja": "戦刃フリソススパスィ",
+    "weapon_ko": "전인 프릭소스 스파시"
+  },
+  "打破の慧眼+": {
+    "name_ko": "타파의 혜안+",
+    "type": "スキル",
+    "effect_ja": "英霊の状態異常付与率を1.2倍にUP/ペルセウスのステータスUP",
+    "effect_ko": "영령의 상태 이상 부여율을 1.2배로 UP/페르세우스의 스테이터스 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "ペルセウス",
+    "parent_eirei_ko": "페르세우스",
+    "weapon_ja": "戦刃フリソススパスィ",
+    "weapon_ko": "전인 프릭소스 스파시"
+  },
+  "戦刃フリソススパスィ": {
+    "name_ko": "전인 프릭소스 스파시",
+    "type": "eirei_weapon",
+    "burst_ja": "属性ダメージ(極大)/強化効果を1つ消去",
+    "burst_ko": "속성 데미지(극대)/강화 효과를 1개 소거",
+    "skills": [
+      {
+        "name_ja": "護国士の錬気",
+        "name_ko": "호국사의 연기"
+      },
+      {
+        "name_ja": "護国士の錬気+",
+        "name_ko": "호국사의 연기+"
+      },
+      {
+        "name_ja": "打破の慧眼",
+        "name_ko": "타파의 혜안"
+      },
+      {
+        "name_ja": "打破の慧眼+",
+        "name_ko": "타파의 혜안+"
+      }
+    ],
+    "parent_eirei_ja": "ペルセウス",
+    "parent_eirei_ko": "페르세우스"
+  },
+  "享楽者の覇気": {
+    "name_ko": "향락자의 패기",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃UP",
+    "effect_ko": "아군 전체의 속성 공격 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "カスパール",
+    "parent_eirei_ko": "카스파르",
+    "weapon_ja": "絶射ナルシュトラール",
+    "weapon_ko": "절사 널슈트랄"
+  },
+  "享楽者の覇気+": {
+    "name_ko": "향락자의 패기+",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃UP/属性キャラの最終ダメージUP(5%)",
+    "effect_ko": "아군 전체의 속성 공격 UP/속성 캐릭터의 최종 데미지 UP(5%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "カスパール",
+    "parent_eirei_ko": "카스파르",
+    "weapon_ja": "絶射ナルシュトラール",
+    "weapon_ko": "절사 널슈트랄"
+  },
+  "トリックリーコール": {
+    "name_ko": "트릭 리콜",
+    "type": "スキル",
+    "effect_ja": "スナッチ使用間隔ターン減少",
+    "effect_ko": "스내치 사용 간격 턴 감소",
+    "eirei_only": true,
+    "parent_eirei_ja": "カスパール",
+    "parent_eirei_ko": "카스파르",
+    "weapon_ja": "絶射ナルシュトラール",
+    "weapon_ko": "절사 널슈트랄"
+  },
+  "トリックリーコール+": {
+    "name_ko": "트릭 리콜+",
+    "type": "スキル",
+    "effect_ja": "スナッチ使用間隔ターン減少/カスパールのステータスUP",
+    "effect_ko": "스내치 사용 간격 턴 감소/카스파르의 스테이터스 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "カスパール",
+    "parent_eirei_ko": "카스파르",
+    "weapon_ja": "絶射ナルシュトラール",
+    "weapon_ko": "절사 널슈트랄"
+  },
+  "絶射ナルシュトラール": {
+    "name_ko": "절사 널슈트랄",
+    "type": "eirei_weapon",
+    "burst_ja": "属性ダメージ(極大)/自分の連続攻撃確率UP(5T)",
+    "burst_ko": "속성 데미지(극대)/자신의 연속 공격 확률 UP(5턴)",
+    "skills": [
+      {
+        "name_ja": "享楽者の覇気",
+        "name_ko": "향락자의 패기"
+      },
+      {
+        "name_ja": "享楽者の覇気+",
+        "name_ko": "향락자의 패기+"
+      },
+      {
+        "name_ja": "トリックリーコール",
+        "name_ko": "트릭 리콜"
+      },
+      {
+        "name_ja": "トリックリーコール+",
+        "name_ko": "트릭 리콜+"
+      }
+    ],
+    "parent_eirei_ja": "カスパール",
+    "parent_eirei_ko": "카스파르"
+  },
+  "享楽者の練気": {
+    "name_ko": "향락자의 연기",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HPUP（極大）",
+    "effect_ko": "속성 캐릭터의 최대 HP UP(극대)",
+    "eirei_only": true,
+    "parent_eirei_ja": "カスパール",
+    "parent_eirei_ko": "카스파르",
+    "weapon_ja": "魔銃ザミエルゲヴェーア",
+    "weapon_ko": "마총 자미엘 게베어"
+  },
+  "享楽者の練気+": {
+    "name_ko": "향락자의 연기+",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HPUP（極大）/属性キャラの最終ダメージUP(5%)",
+    "effect_ko": "속성 캐릭터의 최대 HP UP(극대)/속성 캐릭터의 최종 데미지 UP(5%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "カスパール",
+    "parent_eirei_ko": "카스파르",
+    "weapon_ja": "魔銃ザミエルゲヴェーア",
+    "weapon_ko": "마총 자미엘 게베어"
+  },
+  "シグニフィカントレイズ": {
+    "name_ko": "시그니피컨트 레이즈",
+    "type": "スキル",
+    "effect_ja": "スナッチの成功率大幅UP",
+    "effect_ko": "스내치의 성공률 대폭 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "カスパール",
+    "parent_eirei_ko": "카스파르",
+    "weapon_ja": "魔銃ザミエルゲヴェーア",
+    "weapon_ko": "마총 자미엘 게베어"
+  },
+  "シグニフィカントレイズ+": {
+    "name_ko": "시그니피컨트 레이즈+",
+    "type": "スキル",
+    "effect_ja": "スナッチの成功率大幅UP/カスパールのステータスUP",
+    "effect_ko": "스내치의 성공률 대폭 UP/카스파르의 스테이터스 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "カスパール",
+    "parent_eirei_ko": "카스파르",
+    "weapon_ja": "魔銃ザミエルゲヴェーア",
+    "weapon_ko": "마총 자미엘 게베어"
+  },
+  "魔銃ザミエルゲヴェーア": {
+    "name_ko": "마총 자미엘 게베어",
+    "type": "eirei_weapon",
+    "burst_ja": "属性ダメージ(極大)/自分の連続攻撃確率UP(5T)",
+    "burst_ko": "속성 데미지(극대)/자신의 연속 공격 확률 UP(5턴)",
+    "skills": [
+      {
+        "name_ja": "享楽者の練気",
+        "name_ko": "향락자의 연기"
+      },
+      {
+        "name_ja": "享楽者の練気+",
+        "name_ko": "향락자의 연기+"
+      },
+      {
+        "name_ja": "シグニフィカントレイズ",
+        "name_ko": "시그니피컨트 레이즈"
+      },
+      {
+        "name_ja": "シグニフィカントレイズ+",
+        "name_ko": "시그니피컨트 레이즈+"
+      }
+    ],
+    "parent_eirei_ja": "カスパール",
+    "parent_eirei_ko": "카스파르"
+  },
+  "勇士の覇気": {
+    "name_ko": "용사의 패기",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃UP",
+    "effect_ko": "아군 전체의 속성 공격 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "パラシュラーマ",
+    "parent_eirei_ko": "파라슈라마",
+    "weapon_ja": "掃滅斧カルタリ",
+    "weapon_ko": "소멸부 칼타리"
+  },
+  "勇士の覇気+": {
+    "name_ko": "용사의 패기+",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃UP/属性キャラの最終ダメージUP(5%)",
+    "effect_ko": "아군 전체의 속성 공격 UP/속성 캐릭터의 최종 데미지 UP(5%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "パラシュラーマ",
+    "parent_eirei_ko": "파라슈라마",
+    "weapon_ja": "掃滅斧カルタリ",
+    "weapon_ko": "소멸부 칼타리"
+  },
+  "勇往邁進の意思": {
+    "name_ko": "용왕매진의 의지",
+    "type": "スキル",
+    "effect_ja": "常に急所攻撃確率UP",
+    "effect_ko": "항상 급소 공격 확률 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "パラシュラーマ",
+    "parent_eirei_ko": "파라슈라마",
+    "weapon_ja": "掃滅斧カルタリ",
+    "weapon_ko": "소멸부 칼타리"
+  },
+  "勇往邁進の意思+": {
+    "name_ko": "용왕매진의 의지+",
+    "type": "スキル",
+    "effect_ja": "常に急所攻撃確率UP/パラシュラーマのステータスUP",
+    "effect_ko": "항상 급소 공격 확률 UP/파라슈라마의 스테이터스 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "パラシュラーマ",
+    "parent_eirei_ko": "파라슈라마",
+    "weapon_ja": "掃滅斧カルタリ",
+    "weapon_ko": "소멸부 칼타리"
+  },
+  "掃滅斧カルタリ": {
+    "name_ko": "소멸부 칼타리",
+    "type": "eirei_weapon",
+    "burst_ja": "属性ダメージ(極大)/防御DOWN(武器・幻獣枠30％/180秒)",
+    "burst_ko": "속성 데미지(극대)/방어 DOWN(무기·환수 프레임 30%/180초)",
+    "skills": [
+      {
+        "name_ja": "勇士の覇気",
+        "name_ko": "용사의 패기"
+      },
+      {
+        "name_ja": "勇士の覇気+",
+        "name_ko": "용사의 패기+"
+      },
+      {
+        "name_ja": "勇往邁進の意思",
+        "name_ko": "용왕매진의 의지"
+      },
+      {
+        "name_ja": "勇往邁進の意思+",
+        "name_ko": "용왕매진의 의지+"
+      }
+    ],
+    "parent_eirei_ja": "パラシュラーマ",
+    "parent_eirei_ko": "파라슈라마"
+  },
+  "勇戦士の練気": {
+    "name_ko": "용전사의 연기",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HPUP（極大）",
+    "effect_ko": "속성 캐릭터의 최대 HP UP(극대)",
+    "eirei_only": true,
+    "parent_eirei_ja": "パラシュラーマ",
+    "parent_eirei_ko": "파라슈라마",
+    "weapon_ja": "殲弓ヴィジャヤ",
+    "weapon_ko": "섬궁 비자야"
+  },
+  "勇戦士の練気+": {
+    "name_ko": "용전사의 연기+",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HPUP（極大）/属性キャラの最終ダメージUP(5%)",
+    "effect_ko": "속성 캐릭터의 최대 HP UP(극대)/속성 캐릭터의 최종 데미지 UP(5%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "パラシュラーマ",
+    "parent_eirei_ko": "파라슈라마",
+    "weapon_ja": "殲弓ヴィジャヤ",
+    "weapon_ko": "섬궁 비자야"
+  },
+  "天授の治癒力": {
+    "name_ko": "천수의 치유력",
+    "type": "スキル",
+    "effect_ja": "常に被回復上限UP",
+    "effect_ko": "항상 받는 회복 상한 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "パラシュラーマ",
+    "parent_eirei_ko": "파라슈라마",
+    "weapon_ja": "殲弓ヴィジャヤ",
+    "weapon_ko": "섬궁 비자야"
+  },
+  "天授の治癒力+": {
+    "name_ko": "천수의 치유력+",
+    "type": "スキル",
+    "effect_ja": "常に被回復上限UP/パラシュラーマのステータスUP",
+    "effect_ko": "항상 받는 회복 상한 UP/파라슈라마의 스테이터스 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "パラシュラーマ",
+    "parent_eirei_ko": "파라슈라마",
+    "weapon_ja": "殲弓ヴィジャヤ",
+    "weapon_ko": "섬궁 비자야"
+  },
+  "殲弓ヴィジャヤ": {
+    "name_ko": "섬궁 비자야",
+    "type": "eirei_weapon",
+    "burst_ja": "属性ダメージ(極大)/防御DOWN(武器・幻獣枠30％/180秒)",
+    "burst_ko": "속성 데미지(극대)/방어 DOWN(무기·환수 프레임 30%/180초)",
+    "skills": [
+      {
+        "name_ja": "勇戦士の練気",
+        "name_ko": "용전사의 연기"
+      },
+      {
+        "name_ja": "勇戦士の練気+",
+        "name_ko": "용전사의 연기+"
+      },
+      {
+        "name_ja": "天授の治癒力",
+        "name_ko": "천수의 치유력"
+      },
+      {
+        "name_ja": "天授の治癒力+",
+        "name_ko": "천수의 치유력+"
+      }
+    ],
+    "parent_eirei_ja": "パラシュラーマ",
+    "parent_eirei_ko": "파라슈라마"
+  },
+  "狂賢者の覇気": {
+    "name_ko": "광현자의 패기",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃UP",
+    "effect_ko": "아군 전체의 속성 공격 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "パラケルスス",
+    "parent_eirei_ko": "파라켈수스",
+    "weapon_ja": "賢杖アルキドクセン",
+    "weapon_ko": "현장 아르키독센"
+  },
+  "狂賢者の覇気+": {
+    "name_ko": "광현자의 패기+",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃UP/属性キャラの最終ダメージUP(5%)",
+    "effect_ko": "아군 전체의 속성 공격 UP/속성 캐릭터의 최종 데미지 UP(5%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "パラケルスス",
+    "parent_eirei_ko": "파라켈수스",
+    "weapon_ja": "賢杖アルキドクセン",
+    "weapon_ko": "현장 아르키독센"
+  },
+  "享受する成果": {
+    "name_ko": "향유하는 성과",
+    "type": "スキル",
+    "effect_ja": "連続攻撃発動時に確率でアビリティ2・3の再使用間隔短縮",
+    "effect_ko": "연속 공격 발동 시 확률로 어빌리티 2·3의 재사용 간격 단축",
+    "eirei_only": true,
+    "parent_eirei_ja": "パラケルスス",
+    "parent_eirei_ko": "파라켈수스",
+    "weapon_ja": "賢杖アルキドクセン",
+    "weapon_ko": "현장 아르키독센"
+  },
+  "享受する成果+": {
+    "name_ko": "향유하는 성과+",
+    "type": "スキル",
+    "effect_ja": "連続攻撃発動時に確率でアビリティ2・3の再使用間隔短縮/パラケルススのステータスUP",
+    "effect_ko": "연속 공격 발동 시 확률로 어빌리티 2·3의 재사용 간격 단축/파라켈수스의 스테이터스 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "パラケルスス",
+    "parent_eirei_ko": "파라켈수스",
+    "weapon_ja": "賢杖アルキドクセン",
+    "weapon_ko": "현장 아르키독센"
+  },
+  "賢杖アルキドクセン": {
+    "name_ko": "현장 아르키독센",
+    "type": "eirei_weapon",
+    "burst_ja": "属性ダメージ(極大)/蠱惑・幽闇付与(必中)",
+    "burst_ko": "속성 데미지(극대)/고혹·유암 부여(필중)",
+    "skills": [
+      {
+        "name_ja": "狂賢者の覇気",
+        "name_ko": "광현자의 패기"
+      },
+      {
+        "name_ja": "狂賢者の覇気+",
+        "name_ko": "광현자의 패기+"
+      },
+      {
+        "name_ja": "享受する成果",
+        "name_ko": "향유하는 성과"
+      },
+      {
+        "name_ja": "享受する成果+",
+        "name_ko": "향유하는 성과+"
+      }
+    ],
+    "parent_eirei_ja": "パラケルスス",
+    "parent_eirei_ko": "파라켈수스"
+  },
+  "狂賢者の錬気": {
+    "name_ko": "광현자의 연기",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HPUP（極大）",
+    "effect_ko": "속성 캐릭터의 최대 HP UP(극대)",
+    "eirei_only": true,
+    "parent_eirei_ja": "パラケルスス",
+    "parent_eirei_ko": "파라켈수스",
+    "weapon_ja": "叫篇パラミルグラヌム",
+    "weapon_ko": "규편 파라밀그라눔"
+  },
+  "狂賢者の錬気+": {
+    "name_ko": "광현자의 연기+",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HPUP（極大）/属性キャラの最終ダメージUP(5%)",
+    "effect_ko": "속성 캐릭터의 최대 HP UP(극대)/속성 캐릭터의 최종 데미지 UP(5%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "パラケルスス",
+    "parent_eirei_ko": "파라켈수스",
+    "weapon_ja": "叫篇パラミルグラヌム",
+    "weapon_ko": "규편 파라밀그라눔"
+  },
+  "阿鼻叫喚の念": {
+    "name_ko": "아비규환의 념",
+    "type": "スキル",
+    "effect_ja": "賢者の石の回復力UP",
+    "effect_ko": "현자의 돌의 회복력 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "パラケルスス",
+    "parent_eirei_ko": "파라켈수스",
+    "weapon_ja": "叫篇パラミルグラヌム",
+    "weapon_ko": "규편 파라밀그라눔"
+  },
+  "阿鼻叫喚の念+": {
+    "name_ko": "아비규환의 념+",
+    "type": "スキル",
+    "effect_ja": "賢者の石の回復力UP/パラケルススのステータスUP",
+    "effect_ko": "현자의 돌의 회복력 UP/파라켈수스의 스테이터스 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "パラケルスス",
+    "parent_eirei_ko": "파라켈수스",
+    "weapon_ja": "叫篇パラミルグラヌム",
+    "weapon_ko": "규편 파라밀그라눔"
+  },
+  "叫篇パラミルグラヌム": {
+    "name_ko": "규편 파라밀그라눔",
+    "type": "eirei_weapon",
+    "burst_ja": "属性ダメージ(極大)/蠱惑・幽闇付与(必中、3T)",
+    "burst_ko": "속성 데미지(극대)/고혹·유암 부여(필중, 3턴)",
+    "skills": [
+      {
+        "name_ja": "狂賢者の錬気",
+        "name_ko": "광현자의 연기"
+      },
+      {
+        "name_ja": "狂賢者の錬気+",
+        "name_ko": "광현자의 연기+"
+      },
+      {
+        "name_ja": "阿鼻叫喚の念",
+        "name_ko": "아비규환의 념"
+      },
+      {
+        "name_ja": "阿鼻叫喚の念+",
+        "name_ko": "아비규환의 념+"
+      }
+    ],
+    "parent_eirei_ja": "パラケルスス",
+    "parent_eirei_ko": "파라켈수스"
+  },
+  "姫武将の覇気": {
+    "name_ko": "희무장의 패기",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃UP",
+    "effect_ko": "아군 전체의 속성 공격 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "頼光",
+    "parent_eirei_ko": "라이코",
+    "weapon_ja": "鬼槍・神楽",
+    "weapon_ko": "귀창 카구라"
+  },
+  "姫武将の覇気+": {
+    "name_ko": "희무장의 패기+",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃UP/属性キャラの最終ダメージUP(5%)",
+    "effect_ko": "아군 전체의 속성 공격 UP/속성 캐릭터의 최종 데미지 UP(5%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "頼光",
+    "parent_eirei_ko": "라이코",
+    "weapon_ja": "鬼槍・神楽",
+    "weapon_ko": "귀창 카구라"
+  },
+  "戦霊の助力": {
+    "name_ko": "전령의 조력",
+    "type": "スキル",
+    "effect_ja": "戦闘開始時亡霊を2体追加で召喚",
+    "effect_ko": "전투 시작 시 망령을 2체 추가로 소환",
+    "eirei_only": true,
+    "parent_eirei_ja": "頼光",
+    "parent_eirei_ko": "라이코",
+    "weapon_ja": "鬼槍・神楽",
+    "weapon_ko": "귀창 카구라"
+  },
+  "戦霊の助力+": {
+    "name_ko": "전령의 조력+",
+    "type": "スキル",
+    "effect_ja": "戦闘開始時亡霊を2体追加で召喚/頼光のステータスUP",
+    "effect_ko": "전투 시작 시 망령을 2체 추가로 소환/라이코의 스테이터스 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "頼光",
+    "parent_eirei_ko": "라이코",
+    "weapon_ja": "鬼槍・神楽",
+    "weapon_ko": "귀창 카구라"
+  },
+  "鬼槍・神楽": {
+    "name_ko": "귀창 카구라",
+    "type": "eirei_weapon",
+    "burst_ja": "属性ダメージ(極大)/自分のバーストゲージUP(+30)",
+    "burst_ko": "속성 데미지(극대)/자신의 버스트 게이지 UP(+30)",
+    "skills": [
+      {
+        "name_ja": "姫武将の覇気",
+        "name_ko": "희무장의 패기"
+      },
+      {
+        "name_ja": "姫武将の覇気+",
+        "name_ko": "희무장의 패기+"
+      },
+      {
+        "name_ja": "戦霊の助力",
+        "name_ko": "전령의 조력"
+      },
+      {
+        "name_ja": "戦霊の助力+",
+        "name_ko": "전령의 조력+"
+      }
+    ],
+    "parent_eirei_ja": "頼光",
+    "parent_eirei_ko": "라이코"
+  },
+  "姫武将の錬気": {
+    "name_ko": "희무장의 연기",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HPUP(極大)",
+    "effect_ko": "속성 캐릭터의 최대 HP UP(극대)",
+    "eirei_only": true,
+    "parent_eirei_ja": "頼光",
+    "parent_eirei_ko": "라이코",
+    "weapon_ja": "獣弓・雅楽",
+    "weapon_ko": "수궁 가가쿠"
+  },
+  "姫武将の錬気+": {
+    "name_ko": "희무장의 연기+",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HPUP(極大)/属性キャラの最終ダメージUP(5%)",
+    "effect_ko": "속성 캐릭터의 최대 HP UP(극대)/속성 캐릭터의 최종 데미지 UP(5%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "頼光",
+    "parent_eirei_ko": "라이코",
+    "weapon_ja": "獣弓・雅楽",
+    "weapon_ko": "수궁 가가쿠"
+  },
+  "戦弦の響鳴": {
+    "name_ko": "전현의 공명",
+    "type": "スキル",
+    "effect_ja": "頼光のバースト発動時に味方全体の特殊攻撃UP(累積可)",
+    "effect_ko": "라이코의 버스트 발동 시 아군 전체의 특수 공격 UP(누적 가능)",
+    "eirei_only": true,
+    "parent_eirei_ja": "頼光",
+    "parent_eirei_ko": "라이코",
+    "weapon_ja": "獣弓・雅楽",
+    "weapon_ko": "수궁 가가쿠"
+  },
+  "戦弦の響鳴+": {
+    "name_ko": "전현의 공명+",
+    "type": "スキル",
+    "effect_ja": "頼光のバースト発動時に味方全体の特殊攻撃UP(累積可)/頼光のステータスUP",
+    "effect_ko": "라이코의 버스트 발동 시 아군 전체의 특수 공격 UP(누적 가능)/라이코의 스테이터스 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "頼光",
+    "parent_eirei_ko": "라이코",
+    "weapon_ja": "獣弓・雅楽",
+    "weapon_ko": "수궁 가가쿠"
+  },
+  "獣弓・雅楽": {
+    "name_ko": "수궁 가가쿠",
+    "type": "eirei_weapon",
+    "burst_ja": "属性ダメージ(極大)/自分のバーストゲージUP(+30)",
+    "burst_ko": "속성 데미지(극대)/자신의 버스트 게이지 UP(+30)",
+    "skills": [
+      {
+        "name_ja": "姫武将の錬気",
+        "name_ko": "희무장의 연기"
+      },
+      {
+        "name_ja": "姫武将の錬気+",
+        "name_ko": "희무장의 연기+"
+      },
+      {
+        "name_ja": "戦弦の響鳴",
+        "name_ko": "전현의 공명"
+      },
+      {
+        "name_ja": "戦弦の響鳴+",
+        "name_ko": "전현의 공명+"
+      }
+    ],
+    "parent_eirei_ja": "頼光",
+    "parent_eirei_ko": "라이코"
+  },
+  "神軍師の覇気": {
+    "name_ko": "신군사의 패기",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃アップ",
+    "effect_ko": "아군 전체의 속성 공격 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "孔明",
+    "parent_eirei_ko": "공명",
+    "weapon_ja": "筒弓・袖箭",
+    "weapon_ko": "통궁 수전"
+  },
+  "神軍師の覇気+": {
+    "name_ko": "신군사의 패기+",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃アップ/属性キャラの最終ダメージUP(5%)",
+    "effect_ko": "아군 전체의 속성 공격 UP/속성 캐릭터의 최종 데미지 UP(5%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "孔明",
+    "parent_eirei_ko": "공명",
+    "weapon_ja": "筒弓・袖箭",
+    "weapon_ko": "통궁 수전"
+  },
+  "名軍師の将略": {
+    "name_ko": "명군사의 전략",
+    "type": "スキル",
+    "effect_ja": "神算授与の効果量UP",
+    "effect_ko": "신산수여의 효과량 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "孔明",
+    "parent_eirei_ko": "공명",
+    "weapon_ja": "筒弓・袖箭",
+    "weapon_ko": "통궁 수전"
+  },
+  "名軍師の将略+": {
+    "name_ko": "명군사의 전략+",
+    "type": "スキル",
+    "effect_ja": "神算授与の効果量UP/孔明のステータスUP",
+    "effect_ko": "신산수여의 효과량 UP/공명의 스테이터스 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "孔明",
+    "parent_eirei_ko": "공명",
+    "weapon_ja": "筒弓・袖箭",
+    "weapon_ko": "통궁 수전"
+  },
+  "筒弓・袖箭": {
+    "name_ko": "통궁 수전",
+    "type": "eirei_weapon",
+    "burst_ja": "属性ダメージ(極大)/自分以外の味方全体のバーストゲージUP(+20)",
+    "burst_ko": "속성 데미지(극대)/자신 이외의 아군 전체의 버스트 게이지 UP(+20)",
+    "skills": [
+      {
+        "name_ja": "神軍師の覇気",
+        "name_ko": "신군사의 패기"
+      },
+      {
+        "name_ja": "神軍師の覇気+",
+        "name_ko": "신군사의 패기+"
+      },
+      {
+        "name_ja": "名軍師の将略",
+        "name_ko": "명군사의 전략"
+      },
+      {
+        "name_ja": "名軍師の将略+",
+        "name_ko": "명군사의 전략+"
+      }
+    ],
+    "parent_eirei_ja": "孔明",
+    "parent_eirei_ko": "공명"
+  },
+  "神軍師の練気": {
+    "name_ko": "신군사의 연기",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HPUP(極大)",
+    "effect_ko": "속성 캐릭터의 최대 HP UP(극대)",
+    "eirei_only": true,
+    "parent_eirei_ja": "孔明",
+    "parent_eirei_ko": "공명",
+    "weapon_ja": "智扇・伏龍",
+    "weapon_ko": "지선 복룡"
+  },
+  "神軍師の練気+": {
+    "name_ko": "신군사의 연기+",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HPUP(極大)/属性キャラの最終ダメージUP(5%)",
+    "effect_ko": "속성 캐릭터의 최대 HP UP(극대)/속성 캐릭터의 최종 데미지 UP(5%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "孔明",
+    "parent_eirei_ko": "공명",
+    "weapon_ja": "智扇・伏龍",
+    "weapon_ko": "지선 복룡"
+  },
+  "伏龍の叡智": {
+    "name_ko": "복룡의 예지",
+    "type": "スキル",
+    "effect_ja": "作意封殺の性能UP",
+    "effect_ko": "작의봉살의 성능 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "孔明",
+    "parent_eirei_ko": "공명",
+    "weapon_ja": "智扇・伏龍",
+    "weapon_ko": "지선 복룡"
+  },
+  "伏龍の叡智+": {
+    "name_ko": "복룡의 예지+",
+    "type": "スキル",
+    "effect_ja": "作意封殺の性能UP/孔明のステータスUP",
+    "effect_ko": "작의봉살의 성능 UP/공명의 스테이터스 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "孔明",
+    "parent_eirei_ko": "공명",
+    "weapon_ja": "智扇・伏龍",
+    "weapon_ko": "지선 복룡"
+  },
+  "智扇・伏龍": {
+    "name_ko": "지선 복룡",
+    "type": "eirei_weapon",
+    "burst_ja": "属性ダメージ(極大)/自分以外の味方全体のバーストゲージUP(+20)",
+    "burst_ko": "속성 데미지(극대)/자신 이외의 아군 전체의 버스트 게이지 UP(+20)",
+    "skills": [
+      {
+        "name_ja": "神軍師の練気",
+        "name_ko": "신군사의 연기"
+      },
+      {
+        "name_ja": "神軍師の練気+",
+        "name_ko": "신군사의 연기+"
+      },
+      {
+        "name_ja": "伏龍の叡智",
+        "name_ko": "복룡의 예지"
+      },
+      {
+        "name_ja": "伏龍の叡智+",
+        "name_ko": "복룡의 예지+"
+      }
+    ],
+    "parent_eirei_ja": "孔明",
+    "parent_eirei_ko": "공명"
+  },
+  "荒武者の覇気": {
+    "name_ko": "아라무사의 패기",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃アップ",
+    "effect_ko": "아군 전체의 속성 공격 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "弁慶",
+    "parent_eirei_ko": "벤케이",
+    "weapon_ja": "剛槍ムサシボウ",
+    "weapon_ko": "강창 무사시보"
+  },
+  "荒武者の覇気+": {
+    "name_ko": "아라무사의 패기+",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃アップ/属性キャラの最終ダメージUP(5%)",
+    "effect_ko": "아군 전체의 속성 공격 UP/속성 캐릭터의 최종 데미지 UP(5%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "弁慶",
+    "parent_eirei_ko": "벤케이",
+    "weapon_ja": "剛槍ムサシボウ",
+    "weapon_ko": "강창 무사시보"
+  },
+  "万夫不当の闘気": {
+    "name_ko": "만부부당의 투기",
+    "type": "スキル",
+    "effect_ja": "英霊が決死状態のとき三段攻撃確率UP",
+    "effect_ko": "영령이 결사 상태일 때 3단 공격 확률 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "弁慶",
+    "parent_eirei_ko": "벤케이",
+    "weapon_ja": "剛槍ムサシボウ",
+    "weapon_ko": "강창 무사시보"
+  },
+  "万夫不当の闘気+": {
+    "name_ko": "만부부당의 투기+",
+    "type": "スキル",
+    "effect_ja": "英霊が決死状態のとき三段攻撃確率UP/弁慶のステータスUP",
+    "effect_ko": "영령이 결사 상태일 때 3단 공격 확률 UP/벤케이의 스테이터스 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "弁慶",
+    "parent_eirei_ko": "벤케이",
+    "weapon_ja": "剛槍ムサシボウ",
+    "weapon_ko": "강창 무사시보"
+  },
+  "剛槍ムサシボウ": {
+    "name_ko": "강창 무사시보",
+    "type": "eirei_weapon",
+    "burst_ja": "属性ダメージ(極大)/味方全体に反攻付与",
+    "burst_ko": "속성 데미지(극대)/아군 전체에 반공 부여",
+    "skills": [
+      {
+        "name_ja": "荒武者の覇気",
+        "name_ko": "아라무사의 패기"
+      },
+      {
+        "name_ja": "荒武者の覇気+",
+        "name_ko": "아라무사의 패기+"
+      },
+      {
+        "name_ja": "万夫不当の闘気",
+        "name_ko": "만부부당의 투기"
+      },
+      {
+        "name_ja": "万夫不当の闘気+",
+        "name_ko": "만부부당의 투기+"
+      }
+    ],
+    "parent_eirei_ja": "弁慶",
+    "parent_eirei_ko": "벤케이"
+  },
+  "荒武者の練気": {
+    "name_ko": "아라무사의 연기",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HPUP(極大)",
+    "effect_ko": "속성 캐릭터의 최대 HP UP(극대)",
+    "eirei_only": true,
+    "parent_eirei_ja": "弁慶",
+    "parent_eirei_ko": "벤케이",
+    "weapon_ja": "荒斧オニワカ",
+    "weapon_ko": "황부 오니와카"
+  },
+  "荒武者の練気+": {
+    "name_ko": "아라무사의 연기+",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HPUP(極大)/属性キャラの最終ダメージUP(5%)",
+    "effect_ko": "속성 캐릭터의 최대 HP UP(극대)/속성 캐릭터의 최종 데미지 UP(5%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "弁慶",
+    "parent_eirei_ko": "벤케이",
+    "weapon_ja": "荒斧オニワカ",
+    "weapon_ko": "황부 오니와카"
+  },
+  "剛力無双の矜持": {
+    "name_ko": "괴력무쌍의 긍지",
+    "type": "スキル",
+    "effect_ja": "英霊が被ダメージに確率でアビリティを1ターン短縮",
+    "effect_ko": "영령이 데미지를 입었을 때 확률로 어빌리티를 1턴 단축",
+    "eirei_only": true,
+    "parent_eirei_ja": "弁慶",
+    "parent_eirei_ko": "벤케이",
+    "weapon_ja": "荒斧オニワカ",
+    "weapon_ko": "황부 오니와카"
+  },
+  "剛力無双の矜持+": {
+    "name_ko": "괴력무쌍의 긍지+",
+    "type": "スキル",
+    "effect_ja": "英霊が被ダメージに確率でアビリティを1ターン短縮/弁慶のステータスUP",
+    "effect_ko": "영령이 데미지를 입었을 때 확률로 어빌리티를 1턴 단축/벤케이의 스테이터스 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "弁慶",
+    "parent_eirei_ko": "벤케이",
+    "weapon_ja": "荒斧オニワカ",
+    "weapon_ko": "황부 오니와카"
+  },
+  "荒斧オニワカ": {
+    "name_ko": "황부 오니와카",
+    "type": "eirei_weapon",
+    "burst_ja": "属性ダメージ(極大)/味方全体に反攻付与",
+    "burst_ko": "속성 데미지(극대)/아군 전체에 반공 부여",
+    "skills": [
+      {
+        "name_ja": "荒武者の練気",
+        "name_ko": "아라무사의 연기"
+      },
+      {
+        "name_ja": "荒武者の練気+",
+        "name_ko": "아라무사의 연기+"
+      },
+      {
+        "name_ja": "剛力無双の矜持",
+        "name_ko": "괴력무쌍의 긍지"
+      },
+      {
+        "name_ja": "剛力無双の矜持+",
+        "name_ko": "괴력무쌍의 긍지+"
+      }
+    ],
+    "parent_eirei_ja": "弁慶",
+    "parent_eirei_ko": "벤케이"
+  },
+  "発明王の覇気": {
+    "name_ko": "발명왕의 패기",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃UP",
+    "effect_ko": "아군 전체의 속성 공격 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "エジソン",
+    "parent_eirei_ko": "에디슨",
+    "weapon_ja": "自走砲ランチャータンク",
+    "weapon_ko": "자주포 런처 탱크"
+  },
+  "発明王の覇気+": {
+    "name_ko": "발명왕의 패기+",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃UP/属性キャラの最終ダメージUP(5%)",
+    "effect_ko": "아군 전체의 속성 공격 UP/속성 캐릭터의 최종 데미지 UP(5%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "エジソン",
+    "parent_eirei_ko": "에디슨",
+    "weapon_ja": "自走砲ランチャータンク",
+    "weapon_ko": "자주포 런처 탱크"
+  },
+  "プログラムアプティマイズ": {
+    "name_ko": "프로그램 옵티마이즈",
+    "type": "スキル",
+    "effect_ja": "ドロイドアナパシスのダメージ性能UP",
+    "effect_ko": "드로이드 아나파시스의 데미지 성능 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "エジソン",
+    "parent_eirei_ko": "에디슨",
+    "weapon_ja": "自走砲ランチャータンク",
+    "weapon_ko": "자주포 런처 탱크"
+  },
+  "プログラムアプティマイズ+": {
+    "name_ko": "프로그램 옵티마이즈+",
+    "type": "スキル",
+    "effect_ja": "ドロイドアナパシスのダメージ性能UP/エジソンのステータスUP",
+    "effect_ko": "드로이드 아나파시스의 데미지 성능 UP/에디슨의 스테이터스 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "エジソン",
+    "parent_eirei_ko": "에디슨",
+    "weapon_ja": "自走砲ランチャータンク",
+    "weapon_ko": "자주포 런처 탱크"
+  },
+  "自走砲ランチャータンク": {
+    "name_ko": "자주포 런처 탱크",
+    "type": "eirei_weapon",
+    "burst_ja": "属性ダメージ(極大)/追加ダメージ",
+    "burst_ko": "속성 데미지(극대)/추가 데미지",
+    "skills": [
+      {
+        "name_ja": "発明王の覇気",
+        "name_ko": "발명왕의 패기"
+      },
+      {
+        "name_ja": "発明王の覇気+",
+        "name_ko": "발명왕의 패기+"
+      },
+      {
+        "name_ja": "プログラムアプティマイズ",
+        "name_ko": "프로그램 옵티마이즈"
+      },
+      {
+        "name_ja": "プログラムアプティマイズ+",
+        "name_ko": "프로그램 옵티마이즈+"
+      }
+    ],
+    "parent_eirei_ja": "エジソン",
+    "parent_eirei_ko": "에디슨"
+  },
+  "発明王の練気": {
+    "name_ko": "발명왕의 연기",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HPUP(極大)",
+    "effect_ko": "속성 캐릭터의 최대 HP UP(극대)",
+    "eirei_only": true,
+    "parent_eirei_ja": "エジソン",
+    "parent_eirei_ko": "에디슨",
+    "weapon_ja": "創機イノベイトドール",
+    "weapon_ko": "창기 이노베이트 돌"
+  },
+  "発明王の練気+": {
+    "name_ko": "발명왕의 연기+",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HPUP(極大)/属性キャラの最終ダメージUP(5%)",
+    "effect_ko": "속성 캐릭터의 최대 HP UP(극대)/속성 캐릭터의 최종 데미지 UP(5%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "エジソン",
+    "parent_eirei_ko": "에디슨",
+    "weapon_ja": "創機イノベイトドール",
+    "weapon_ko": "창기 이노베이트 돌"
+  },
+  "メディカルアップデート": {
+    "name_ko": "메디컬 업데이트",
+    "type": "スキル",
+    "effect_ja": "英霊の回復性能UP",
+    "effect_ko": "영령의 회복 성능 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "エジソン",
+    "parent_eirei_ko": "에디슨",
+    "weapon_ja": "創機イノベイトドール",
+    "weapon_ko": "창기 이노베이트 돌"
+  },
+  "メディカルアップデート+": {
+    "name_ko": "메디컬 업데이트+",
+    "type": "スキル",
+    "effect_ja": "英霊の回復性能UP/エジソンのステータスUP",
+    "effect_ko": "영령의 회복 성능 UP/에디슨의 스테이터스 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "エジソン",
+    "parent_eirei_ko": "에디슨",
+    "weapon_ja": "創機イノベイトドール",
+    "weapon_ko": "창기 이노베이트 돌"
+  },
+  "創機イノベイトドール": {
+    "name_ko": "창기 이노베이트 돌",
+    "type": "eirei_weapon",
+    "burst_ja": "属性ダメージ(極大)/追加ダメージ",
+    "burst_ko": "속성 데미지(극대)/추가 데미지",
+    "skills": [
+      {
+        "name_ja": "発明王の練気",
+        "name_ko": "발명왕의 연기"
+      },
+      {
+        "name_ja": "発明王の練気+",
+        "name_ko": "발명왕의 연기+"
+      },
+      {
+        "name_ja": "メディカルアップデート",
+        "name_ko": "메디컬 업데이트"
+      },
+      {
+        "name_ja": "メディカルアップデート+",
+        "name_ko": "메디컬 업데이트+"
+      }
+    ],
+    "parent_eirei_ja": "エジソン",
+    "parent_eirei_ko": "에디슨"
+  },
+  "狂詩人の覇気": {
+    "name_ko": "광시인의 패기",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃UP",
+    "effect_ko": "아군 전체의 속성 공격 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "アルハザード",
+    "parent_eirei_ko": "알하자드",
+    "weapon_ja": "幻書アル・アジフ",
+    "weapon_ko": "환서 알 아지프"
+  },
+  "狂詩人の覇気+": {
+    "name_ko": "광시인의 패기+",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃UP/属性キャラの最終ダメージUP(5%)",
+    "effect_ko": "아군 전체의 속성 공격 UP/속성 캐릭터의 최종 데미지 UP(5%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "アルハザード",
+    "parent_eirei_ko": "알하자드",
+    "weapon_ja": "幻書アル・アジフ",
+    "weapon_ko": "환서 알 아지프"
+  },
+  "無詠の節略": {
+    "name_ko": "무영의 절략",
+    "type": "スキル",
+    "effect_ja": "戦闘開始時に幻獣召喚の再使用間隔2ターン短縮",
+    "effect_ko": "전투 시작 시 환수 소환의 재사용 간격 2턴 단축",
+    "eirei_only": true,
+    "parent_eirei_ja": "アルハザード",
+    "parent_eirei_ko": "알하자드",
+    "weapon_ja": "幻書アル・アジフ",
+    "weapon_ko": "환서 알 아지프"
+  },
+  "無詠の節略+": {
+    "name_ko": "무영의 절략+",
+    "type": "スキル",
+    "effect_ja": "戦闘開始時に幻獣召喚の再使用間隔2ターン短縮/アルハザードのステータスUP",
+    "effect_ko": "전투 시작 시 환수 소환의 재사용 간격 2턴 단축/알하자드의 스테이터스 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "アルハザード",
+    "parent_eirei_ko": "알하자드",
+    "weapon_ja": "幻書アル・アジフ",
+    "weapon_ko": "환서 알 아지프"
+  },
+  "幻書アル・アジフ": {
+    "name_ko": "환서 알 아지프",
+    "type": "eirei_weapon",
+    "burst_ja": "属性ダメージ(極大)/メイン幻獣を召喚可能に",
+    "burst_ko": "속성 데미지(극대)/메인 환수를 소환 가능하게 함",
+    "skills": [
+      {
+        "name_ja": "狂詩人の覇気",
+        "name_ko": "광시인의 패기"
+      },
+      {
+        "name_ja": "狂詩人の覇気+",
+        "name_ko": "광시인의 패기+"
+      },
+      {
+        "name_ja": "無詠の節略",
+        "name_ko": "무영의 절략"
+      },
+      {
+        "name_ja": "無詠の節略+",
+        "name_ko": "무영의 절략+"
+      }
+    ],
+    "parent_eirei_ja": "アルハザード",
+    "parent_eirei_ko": "알하자드"
+  },
+  "狂詩人の練気": {
+    "name_ko": "광시인의 연기",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HPUP(極大)",
+    "effect_ko": "속성 캐릭터의 최대 HP UP(극대)",
+    "eirei_only": true,
+    "parent_eirei_ja": "アルハザード",
+    "parent_eirei_ko": "알하자드",
+    "weapon_ja": "犠剣ハドラ・ワハシュ",
+    "weapon_ko": "희검 하드라 와하슈"
+  },
+  "狂詩人の練気+": {
+    "name_ko": "광시인의 연기+",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HPUP(極大)/属性キャラの最終ダメージUP(5%)",
+    "effect_ko": "속성 캐릭터의 최대 HP UP(극대)/속성 캐릭터의 최종 데미지 UP(5%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "アルハザード",
+    "parent_eirei_ko": "알하자드",
+    "weapon_ja": "犠剣ハドラ・ワハシュ",
+    "weapon_ko": "희검 하드라 와하슈"
+  },
+  "幻吟の回響": {
+    "name_ko": "환음의 회향",
+    "type": "スキル",
+    "effect_ja": "幻獣召喚時に英霊のHP回復",
+    "effect_ko": "환수 소환 시 영령의 HP 회복",
+    "eirei_only": true,
+    "parent_eirei_ja": "アルハザード",
+    "parent_eirei_ko": "알하자드",
+    "weapon_ja": "犠剣ハドラ・ワハシュ",
+    "weapon_ko": "희검 하드라 와하슈"
+  },
+  "幻吟の回響+": {
+    "name_ko": "환음의 회향+",
+    "type": "スキル",
+    "effect_ja": "幻獣召喚時に英霊のHP回復/アルハザードのステータスUP",
+    "effect_ko": "환수 소환 시 영령의 HP 회복/알하자드의 스테이터스 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "アルハザード",
+    "parent_eirei_ko": "알하자드",
+    "weapon_ja": "犠剣ハドラ・ワハシュ",
+    "weapon_ko": "희검 하드라 와하슈"
+  },
+  "犠剣ハドラ・ワハシュ": {
+    "name_ko": "희검 하드라 와하슈",
+    "type": "eirei_weapon",
+    "burst_ja": "属性ダメージ(極大)/メイン幻獣を召喚可能に",
+    "burst_ko": "속성 데미지(극대)/메인 환수를 소환 가능하게 함",
+    "skills": [
+      {
+        "name_ja": "狂詩人の練気",
+        "name_ko": "광시인의 연기"
+      },
+      {
+        "name_ja": "狂詩人の練気+",
+        "name_ko": "광시인의 연기+"
+      },
+      {
+        "name_ja": "幻吟の回響",
+        "name_ko": "환음의 회향"
+      },
+      {
+        "name_ja": "幻吟の回響+",
+        "name_ko": "환음의 회향+"
+      }
+    ],
+    "parent_eirei_ja": "アルハザード",
+    "parent_eirei_ko": "알하자드"
+  },
+  "獅子王の覇気": {
+    "name_ko": "사자왕의 패기",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃UP",
+    "effect_ko": "아군 전체의 속성 공격 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "アレクサンダー",
+    "parent_eirei_ko": "알렉산더",
+    "weapon_ja": "哮刃ゴルディアス",
+    "weapon_ko": "효인 고르디아스"
+  },
+  "獅子王の覇気+": {
+    "name_ko": "사자왕의 패기+",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃UP/属性キャラの最終ダメージUP(5%)",
+    "effect_ko": "아군 전체의 속성 공격 UP/속성 캐릭터의 최종 데미지 UP(5%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "アレクサンダー",
+    "parent_eirei_ko": "알렉산더",
+    "weapon_ja": "哮刃ゴルディアス",
+    "weapon_ko": "효인 고르디아스"
+  },
+  "熾烈なる猛襲": {
+    "name_ko": "치열한 맹습",
+    "type": "スキル",
+    "effect_ja": "覇王の激昂の追襲の性能UP",
+    "effect_ko": "패왕의 격앙의 추습 성능 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "アレクサンダー",
+    "parent_eirei_ko": "알렉산더",
+    "weapon_ja": "哮刃ゴルディアス",
+    "weapon_ko": "효인 고르디아스"
+  },
+  "熾烈なる猛襲+": {
+    "name_ko": "치열한 맹습+",
+    "type": "スキル",
+    "effect_ja": "覇王の激昂の追襲の性能UP/アレクサンダーのステータスUP",
+    "effect_ko": "패왕의 격앙의 추습 성능 UP/알렉산더의 스테이터스 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "アレクサンダー",
+    "parent_eirei_ko": "알렉산더",
+    "weapon_ja": "哮刃ゴルディアス",
+    "weapon_ko": "효인 고르디아스"
+  },
+  "哮刃ゴルディアス": {
+    "name_ko": "효인 고르디아스",
+    "type": "eirei_weapon",
+    "burst_ja": "属性ダメージ(極大)/自分に防壁付与",
+    "burst_ko": "속성 데미지(극대)/자신에게 방벽 부여",
+    "skills": [
+      {
+        "name_ja": "獅子王の覇気",
+        "name_ko": "사자왕의 패기"
+      },
+      {
+        "name_ja": "獅子王の覇気+",
+        "name_ko": "사자왕의 패기+"
+      },
+      {
+        "name_ja": "熾烈なる猛襲",
+        "name_ko": "치열한 맹습"
+      },
+      {
+        "name_ja": "熾烈なる猛襲+",
+        "name_ko": "치열한 맹습+"
+      }
+    ],
+    "parent_eirei_ja": "アレクサンダー",
+    "parent_eirei_ko": "알렉산더"
+  },
+  "獅子王の練気": {
+    "name_ko": "사자왕의 연기",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HPUP(極大)",
+    "effect_ko": "속성 캐릭터의 최대 HP UP(극대)",
+    "eirei_only": true,
+    "parent_eirei_ja": "アレクサンダー",
+    "parent_eirei_ko": "알렉산더",
+    "weapon_ja": "牙槌レオーンスィモス",
+    "weapon_ko": "아추 레온시모스"
+  },
+  "獅子王の練気+": {
+    "name_ko": "사자왕의 연기+",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HPUP(極大)/属性キャラの最終ダメージUP(5%)",
+    "effect_ko": "속성 캐릭터의 최대 HP UP(극대)/속성 캐릭터의 최종 데미지 UP(5%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "アレクサンダー",
+    "parent_eirei_ko": "알렉산더",
+    "weapon_ja": "牙槌レオーンスィモス",
+    "weapon_ko": "아추 레온시모스"
+  },
+  "猛勇の剛毅": {
+    "name_ko": "맹용의 강기",
+    "type": "スキル",
+    "effect_ja": "英霊の被回復上限UP",
+    "effect_ko": "영령의 받는 회복 상한 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "アレクサンダー",
+    "parent_eirei_ko": "알렉산더",
+    "weapon_ja": "牙槌レオーンスィモス",
+    "weapon_ko": "아추 레온시모스"
+  },
+  "猛勇の剛毅+": {
+    "name_ko": "맹용의 강기+",
+    "type": "スキル",
+    "effect_ja": "英霊の被回復上限UP/アレクサンダーのステータスUP",
+    "effect_ko": "영령의 받는 회복 상한 UP/알렉산더의 스테이터스 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "アレクサンダー",
+    "parent_eirei_ko": "알렉산더",
+    "weapon_ja": "牙槌レオーンスィモス",
+    "weapon_ko": "아추 레온시모스"
+  },
+  "牙槌レオーンスィモス": {
+    "name_ko": "아추 레온시모스",
+    "type": "eirei_weapon",
+    "burst_ja": "属性ダメージ(極大)/自分に防壁付与",
+    "burst_ko": "속성 데미지(극대)/자신에게 방벽 부여",
+    "skills": [
+      {
+        "name_ja": "獅子王の練気",
+        "name_ko": "사자왕의 연기"
+      },
+      {
+        "name_ja": "獅子王の練気+",
+        "name_ko": "사자왕의 연기+"
+      },
+      {
+        "name_ja": "猛勇の剛毅",
+        "name_ko": "맹용의 강기"
+      },
+      {
+        "name_ja": "猛勇の剛毅+",
+        "name_ko": "맹용의 강기+"
+      }
+    ],
+    "parent_eirei_ja": "アレクサンダー",
+    "parent_eirei_ko": "알렉산더"
+  },
+  "英雄王の覇気": {
+    "name_ko": "영웅왕의 패기",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃力アップ",
+    "effect_ko": "아군 전체의 속성 공격력 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "アーサー",
+    "parent_eirei_ko": "아서",
+    "weapon_ja": "聖剣エクスカリバー",
+    "weapon_ko": "성검 엑스칼리버"
+  },
+  "聖王の帰還": {
+    "name_ko": "성왕의 귀환",
+    "type": "スキル",
+    "effect_ja": "絶対王政の使用間隔1ターン短縮",
+    "effect_ko": "절대왕정의 사용 간격 1턴 단축",
+    "eirei_only": true,
+    "parent_eirei_ja": "アーサー",
+    "parent_eirei_ko": "아서",
+    "weapon_ja": "聖剣エクスカリバー",
+    "weapon_ko": "성검 엑스칼리버"
+  },
+  "聖剣エクスカリバー": {
+    "name_ko": "성검 엑스칼리버",
+    "type": "eirei_weapon",
+    "skills": [
+      {
+        "name_ja": "英雄王の覇気",
+        "name_ko": "영웅왕의 패기"
+      },
+      {
+        "name_ja": "聖王の帰還",
+        "name_ko": "성왕의 귀환"
+      }
+    ],
+    "parent_eirei_ja": "アーサー",
+    "parent_eirei_ko": "아서"
+  },
+  "英雄王の練気": {
+    "name_ko": "영웅왕의 연기",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HP上昇",
+    "effect_ko": "속성 캐릭터의 최대 HP 상승",
+    "eirei_only": true,
+    "parent_eirei_ja": "アーサー",
+    "parent_eirei_ko": "아서",
+    "weapon_ja": "聖斧カレトヴルッフ",
+    "weapon_ko": "성부 칼레드불프"
+  },
+  "円卓王の威厳": {
+    "name_ko": "원탁왕의 위엄",
+    "type": "スキル",
+    "effect_ja": "アヴァロンの導きにさらに攻撃アップ効果追加(D枠20%)",
+    "effect_ko": "아발론의 인도에 추가로 공격 UP 효과 추가(D프레임 20%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "アーサー",
+    "parent_eirei_ko": "아서",
+    "weapon_ja": "聖斧カレトヴルッフ",
+    "weapon_ko": "성부 칼레드불프"
+  },
+  "聖斧カレトヴルッフ": {
+    "name_ko": "성부 칼레드불프",
+    "type": "eirei_weapon",
+    "skills": [
+      {
+        "name_ja": "英雄王の練気",
+        "name_ko": "영웅왕의 연기"
+      },
+      {
+        "name_ja": "円卓王の威厳",
+        "name_ko": "원탁왕의 위엄"
+      }
+    ],
+    "parent_eirei_ja": "アーサー",
+    "parent_eirei_ko": "아서"
+  },
+  "聖少女の覇気": {
+    "name_ko": "성소녀의 패기",
+    "type": "スキル",
+    "effect_ja": "味方全体の〇〇属性攻撃力アップ",
+    "effect_ko": "아군 전체의 〇〇속성 공격력 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "ジャンヌ・ダルク",
+    "parent_eirei_ko": "잔 다르크",
+    "weapon_ja": "輝刀セイントゴーシュ",
+    "weapon_ko": "휘도 세인트 고슈"
+  },
+  "先導せし剣の光": {
+    "name_ko": "선도하는 검의 빛",
+    "type": "スキル",
+    "effect_ja": "オルレアンコールの使用間隔２ターン短縮",
+    "effect_ko": "오를레앙 콜의 사용 간격 2턴 단축",
+    "eirei_only": true,
+    "parent_eirei_ja": "ジャンヌ・ダルク",
+    "parent_eirei_ko": "잔 다르크",
+    "weapon_ja": "輝刀セイントゴーシュ",
+    "weapon_ko": "휘도 세인트 고슈"
+  },
+  "輝刀セイントゴーシュ": {
+    "name_ko": "휘도 세인트 고슈",
+    "type": "eirei_weapon",
+    "skills": [
+      {
+        "name_ja": "聖少女の覇気",
+        "name_ko": "성소녀의 패기"
+      },
+      {
+        "name_ja": "先導せし剣の光",
+        "name_ko": "선도하는 검의 빛"
+      }
+    ],
+    "parent_eirei_ja": "ジャンヌ・ダルク",
+    "parent_eirei_ko": "잔 다르크"
+  },
+  "聖少女の練気": {
+    "name_ko": "성소녀의 연기",
+    "type": "スキル",
+    "effect_ja": "〇〇属性キャラクターの最大HP上昇",
+    "effect_ko": "〇〇속성 캐릭터의 최대 HP 상승",
+    "eirei_only": true,
+    "parent_eirei_ja": "ジャンヌ・ダルク",
+    "parent_eirei_ko": "잔 다르크",
+    "weapon_ja": "輝槍クレストフラッグ",
+    "weapon_ko": "휘창 크레스트 플래그"
+  },
+  "神託を聞きし殉教者": {
+    "name_ko": "신탁을 들은 순교자",
+    "type": "スキル",
+    "effect_ja": "神の声にさらにダメージカット効果追加(20%)",
+    "effect_ko": "신의 목소리에 추가로 데미지 컷 효과 추가(20%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "ジャンヌ・ダルク",
+    "parent_eirei_ko": "잔 다르크",
+    "weapon_ja": "輝槍クレストフラッグ",
+    "weapon_ko": "휘창 크레스트 플래그"
+  },
+  "輝槍クレストフラッグ": {
+    "name_ko": "휘창 크레스트 플래그",
+    "type": "eirei_weapon",
+    "skills": [
+      {
+        "name_ja": "聖少女の練気",
+        "name_ko": "성소녀의 연기"
+      },
+      {
+        "name_ja": "神託を聞きし殉教者",
+        "name_ko": "신탁을 들은 순교자"
+      }
+    ],
+    "parent_eirei_ja": "ジャンヌ・ダルク",
+    "parent_eirei_ko": "잔 다르크"
+  },
+  "星女神の覇気": {
+    "name_ko": "성여신의 패기",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃力アップ",
+    "effect_ko": "아군 전체의 속성 공격력 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "アンドロメダ",
+    "parent_eirei_ko": "안드로메다",
+    "weapon_ja": "星杖プラネットスター",
+    "weapon_ko": "성장 플래닛 스타"
+  },
+  "魂の抱擁": {
+    "name_ko": "영혼의 포옹",
+    "type": "スキル",
+    "effect_ja": "呪詠の鎖(防御20%アップ)にさらに防御アップ(20%)効果追加",
+    "effect_ko": "주영의 쇠사슬(방어 20% UP)에 추가로 방어 UP(20%) 효과 추가",
+    "eirei_only": true,
+    "parent_eirei_ja": "アンドロメダ",
+    "parent_eirei_ko": "안드로메다",
+    "weapon_ja": "星杖プラネットスター",
+    "weapon_ko": "성장 플래닛 스타"
+  },
+  "星杖プラネットスター": {
+    "name_ko": "성장 플래닛 스타",
+    "type": "eirei_weapon",
+    "skills": [
+      {
+        "name_ja": "星女神の覇気",
+        "name_ko": "성여신의 패기"
+      },
+      {
+        "name_ja": "魂の抱擁",
+        "name_ko": "영혼의 포옹"
+      }
+    ],
+    "parent_eirei_ja": "アンドロメダ",
+    "parent_eirei_ko": "안드로메다"
+  },
+  "星女神の練気": {
+    "name_ko": "성여신의 연기",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HP上昇",
+    "effect_ko": "속성 캐릭터의 최대 HP 상승",
+    "eirei_only": true,
+    "parent_eirei_ja": "アンドロメダ",
+    "parent_eirei_ko": "안드로메다",
+    "weapon_ja": "星槍コズミックチェイン",
+    "weapon_ko": "성창 코즈믹 체인"
+  },
+  "光り輝く星座の導き": {
+    "name_ko": "빛나는 별자리의 인도",
+    "type": "スキル",
+    "effect_ja": "英雄の救済に味方全体にリジェネ付与追加",
+    "effect_ko": "영웅의 구제에 아군 전체 리젠 부여 추가",
+    "eirei_only": true,
+    "parent_eirei_ja": "アンドロメダ",
+    "parent_eirei_ko": "안드로메다",
+    "weapon_ja": "星槍コズミックチェイン",
+    "weapon_ko": "성창 코즈믹 체인"
+  },
+  "星槍コズミックチェイン": {
+    "name_ko": "성창 코즈믹 체인",
+    "type": "eirei_weapon",
+    "skills": [
+      {
+        "name_ja": "星女神の練気",
+        "name_ko": "성여신의 연기"
+      },
+      {
+        "name_ja": "光り輝く星座の導き",
+        "name_ko": "빛나는 별자리의 인도"
+      }
+    ],
+    "parent_eirei_ja": "アンドロメダ",
+    "parent_eirei_ko": "안드로메다"
+  },
+  "魔導王の覇気": {
+    "name_ko": "마도왕의 패기",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃力アップ",
+    "effect_ko": "아군 전체의 속성 공격력 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "ソロモン",
+    "parent_eirei_ko": "솔로몬",
+    "weapon_ja": "儀剣レメゲトンキー",
+    "weapon_ko": "의검 레메게톤 키"
+  },
+  "聖魔を服従させる者": {
+    "name_ko": "성마를 복종시키는 자",
+    "type": "スキル",
+    "effect_ja": "鋒矢の陣の効果対象を全体化",
+    "effect_ko": "봉시의 진의 효과 대상을 전체화",
+    "eirei_only": true,
+    "parent_eirei_ja": "ソロモン",
+    "parent_eirei_ko": "솔로몬",
+    "weapon_ja": "儀剣レメゲトンキー",
+    "weapon_ko": "의검 레메게톤 키"
+  },
+  "儀剣レメゲトンキー": {
+    "name_ko": "의검 레메게톤 키",
+    "type": "eirei_weapon",
+    "skills": [
+      {
+        "name_ja": "魔導王の覇気",
+        "name_ko": "마도왕의 패기"
+      },
+      {
+        "name_ja": "聖魔を服従させる者",
+        "name_ko": "성마를 복종시키는 자"
+      }
+    ],
+    "parent_eirei_ja": "ソロモン",
+    "parent_eirei_ko": "솔로몬"
+  },
+  "魔導王の練気": {
+    "name_ko": "마도왕의 연기",
+    "type": "スキル",
+    "effect_ja": "n属性キャラクターの最大HPUP",
+    "effect_ko": "n속성 캐릭터의 최대 HP UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "ソロモン",
+    "parent_eirei_ko": "솔로몬",
+    "weapon_ja": "儀杖アルス・ノウァ",
+    "weapon_ko": "의장 아르스 노바"
+  },
+  "深淵の探求者": {
+    "name_ko": "심연의 탐구자",
+    "type": "スキル",
+    "effect_ja": "ラジエルの書の性能UP・ターン短縮",
+    "effect_ko": "라지엘의 서의 성능 UP·턴 단축",
+    "eirei_only": true,
+    "parent_eirei_ja": "ソロモン",
+    "parent_eirei_ko": "솔로몬",
+    "weapon_ja": "儀杖アルス・ノウァ",
+    "weapon_ko": "의장 아르스 노바"
+  },
+  "儀杖アルス・ノウァ": {
+    "name_ko": "의장 아르스 노바",
+    "type": "eirei_weapon",
+    "skills": [
+      {
+        "name_ja": "魔導王の練気",
+        "name_ko": "마도왕의 연기"
+      },
+      {
+        "name_ja": "深淵の探求者",
+        "name_ko": "심연의 탐구자"
+      }
+    ],
+    "parent_eirei_ja": "ソロモン",
+    "parent_eirei_ko": "솔로몬"
+  },
+  "龍殺者の覇気": {
+    "name_ko": "용살자의 패기",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃力アップ",
+    "effect_ko": "아군 전체의 속성 공격력 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "ジークフリート",
+    "parent_eirei_ko": "지크프리트",
+    "weapon_ja": "滅剣バルムンクⅡ",
+    "weapon_ko": "멸검 발뭉 II"
+  },
+  "龍を屠る刃": {
+    "name_ko": "용을 도살하는 칼날",
+    "type": "スキル",
+    "effect_ja": "オーバードライブが2回発動する",
+    "effect_ko": "오버드라이브가 2회 발동한다",
+    "eirei_only": true,
+    "parent_eirei_ja": "ジークフリート",
+    "parent_eirei_ko": "지크프리트",
+    "weapon_ja": "滅剣バルムンクⅡ",
+    "weapon_ko": "멸검 발뭉 II"
+  },
+  "滅剣バルムンクⅡ": {
+    "name_ko": "멸검 발뭉 II",
+    "type": "eirei_weapon",
+    "skills": [
+      {
+        "name_ja": "龍殺者の覇気",
+        "name_ko": "용살자의 패기"
+      },
+      {
+        "name_ja": "龍を屠る刃",
+        "name_ko": "용을 도살하는 칼날"
+      }
+    ],
+    "parent_eirei_ja": "ジークフリート",
+    "parent_eirei_ko": "지크프리트"
+  },
+  "龍殺者の練気": {
+    "name_ko": "용살자의 연기",
+    "type": "スキル",
+    "effect_ja": "n属性キャラクターの最大HP上昇",
+    "effect_ko": "n속성 캐릭터의 최대 HP 상승",
+    "eirei_only": true,
+    "parent_eirei_ja": "ジークフリート",
+    "parent_eirei_ko": "지크프리트",
+    "weapon_ja": "滅鎚ドラゴンスレイブ",
+    "weapon_ko": "멸퇴 드래곤 슬레이브"
+  },
+  "勇猛なる英傑": {
+    "name_ko": "용맹한 영걸",
+    "type": "スキル",
+    "effect_ja": "士気高揚にレイジング特攻の効果追加（D枠 2T 通常攻撃+30% バースト+20%）",
+    "effect_ko": "사기 고양에 레이징 특공 효과 추가 (D프레임 2T 일반 공격+30% 버스트+20%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "ジークフリート",
+    "parent_eirei_ko": "지크프리트",
+    "weapon_ja": "滅鎚ドラゴンスレイブ",
+    "weapon_ko": "멸퇴 드래곤 슬레이브"
+  },
+  "滅鎚ドラゴンスレイブ": {
+    "name_ko": "멸퇴 드래곤 슬레이브",
+    "type": "eirei_weapon",
+    "skills": [
+      {
+        "name_ja": "龍殺者の練気",
+        "name_ko": "용살자의 연기"
+      },
+      {
+        "name_ja": "勇猛なる英傑",
+        "name_ko": "용맹한 영걸"
+      }
+    ],
+    "parent_eirei_ja": "ジークフリート",
+    "parent_eirei_ko": "지크프리트"
+  },
+  "復讐騎の覇気": {
+    "name_ko": "복수기사의 패기",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃力アップ",
+    "effect_ko": "아군 전체의 속성 공격력 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "モルドレッド",
+    "parent_eirei_ko": "모드레드",
+    "weapon_ja": "魔剣クラレント",
+    "weapon_ko": "마검 클라렌트"
+  },
+  "破滅をもたらす暴虐": {
+    "name_ko": "파멸을 가져오는 포학",
+    "type": "スキル",
+    "effect_ja": "アウトレイジにモードゲージ減少効果追加",
+    "effect_ko": "아웃레이지에 모드 게이지 감소 효과 추가",
+    "eirei_only": true,
+    "parent_eirei_ja": "モルドレッド",
+    "parent_eirei_ko": "모드레드",
+    "weapon_ja": "魔剣クラレント",
+    "weapon_ko": "마검 클라렌트"
+  },
+  "魔剣クラレント": {
+    "name_ko": "마검 클라렌트",
+    "type": "eirei_weapon",
+    "skills": [
+      {
+        "name_ja": "復讐騎の覇気",
+        "name_ko": "복수기사의 패기"
+      },
+      {
+        "name_ja": "破滅をもたらす暴虐",
+        "name_ko": "파멸을 가져오는 포학"
+      }
+    ],
+    "parent_eirei_ja": "モルドレッド",
+    "parent_eirei_ko": "모드레드"
+  },
+  "復讐騎の練気": {
+    "name_ko": "복수기사의 연기",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HP上昇",
+    "effect_ko": "속성 캐릭터의 최대 HP 상승",
+    "eirei_only": true,
+    "parent_eirei_ja": "モルドレッド",
+    "parent_eirei_ko": "모드레드",
+    "weapon_ja": "魔刃エリミネイター",
+    "weapon_ko": "마인 엘리미네이터"
+  },
+  "反逆の狼煙": {
+    "name_ko": "반역의 봉화",
+    "type": "スキル",
+    "effect_ja": "アウトレイジに強化効果を1つ消去効果追加",
+    "effect_ko": "아웃레이지에 강화 효과를 1개 제거하는 효과 추가",
+    "eirei_only": true,
+    "parent_eirei_ja": "モルドレッド",
+    "parent_eirei_ko": "모드레드",
+    "weapon_ja": "魔刃エリミネイター",
+    "weapon_ko": "마인 엘리미네이터"
+  },
+  "魔刃エリミネイター": {
+    "name_ko": "마인 엘리미네이터",
+    "type": "eirei_weapon",
+    "skills": [
+      {
+        "name_ja": "復讐騎の練気",
+        "name_ko": "복수기사의 연기"
+      },
+      {
+        "name_ja": "反逆の狼煙",
+        "name_ko": "반역의 봉화"
+      }
+    ],
+    "parent_eirei_ja": "モルドレッド",
+    "parent_eirei_ko": "모드레드"
+  },
+  "超銃士の覇気": {
+    "name_ko": "초총사의 패기",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃力アップ",
+    "effect_ko": "아군 전체의 속성 공격력 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "ダルタニアン",
+    "parent_eirei_ko": "달타냥",
+    "weapon_ja": "撃砲スナイドルバスター",
+    "weapon_ko": "격포 스나이들 버스터"
+  },
+  "アルティメットロックオン": {
+    "name_ko": "얼티밋 록온",
+    "type": "スキル",
+    "effect_ja": "スナッチ3rdの効果量アップ",
+    "effect_ko": "스내치 3rd의 효과량 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "ダルタニアン",
+    "parent_eirei_ko": "달타냥",
+    "weapon_ja": "撃砲スナイドルバスター",
+    "weapon_ko": "격포 스나이들 버스터"
+  },
+  "撃砲スナイドルバスター": {
+    "name_ko": "격포 스나이들 버스터",
+    "type": "eirei_weapon",
+    "skills": [
+      {
+        "name_ja": "超銃士の覇気",
+        "name_ko": "초총사의 패기"
+      },
+      {
+        "name_ja": "アルティメットロックオン",
+        "name_ko": "얼티밋 록온"
+      }
+    ],
+    "parent_eirei_ja": "ダルタニアン",
+    "parent_eirei_ko": "달타냥"
+  },
+  "超銃士の練気": {
+    "name_ko": "초총사의 연기",
+    "type": "スキル",
+    "effect_ja": "○属性キャラクターの最大HP上昇",
+    "effect_ko": "○속성 캐릭터의 최대 HP 상승",
+    "eirei_only": true,
+    "parent_eirei_ja": "ダルタニアン",
+    "parent_eirei_ko": "달타냥",
+    "weapon_ja": "撃銃シャルルブラスト",
+    "weapon_ko": "격총 샤를 블래스트"
+  },
+  "パーフェクトフルバースト": {
+    "name_ko": "퍼펙트 풀 버스트",
+    "type": "スキル",
+    "effect_ja": "狙撃の効果量アップ",
+    "effect_ko": "저격의 효과량 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "ダルタニアン",
+    "parent_eirei_ko": "달타냥",
+    "weapon_ja": "撃銃シャルルブラスト",
+    "weapon_ko": "격총 샤를 블래스트"
+  },
+  "撃銃シャルルブラスト": {
+    "name_ko": "격총 샤를 블래스트",
+    "type": "eirei_weapon",
+    "skills": [
+      {
+        "name_ja": "超銃士の練気",
+        "name_ko": "초총사의 연기"
+      },
+      {
+        "name_ja": "パーフェクトフルバースト",
+        "name_ko": "퍼펙트 풀 버스트"
+      }
+    ],
+    "parent_eirei_ja": "ダルタニアン",
+    "parent_eirei_ko": "달타냥"
+  },
+  "神闘士の覇気": {
+    "name_ko": "[wiki] 신투사의 패기",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃力アップ",
+    "effect_ko": "아군 전체의 속성 공격력 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "ヘラクレス",
+    "parent_eirei_ko": "헤라클레스",
+    "weapon_ja": "剛斧ネメアスカル",
+    "weapon_ko": "강부 네메아 스컬"
+  },
+  "豪傑の血脈": {
+    "name_ko": "[wiki] 호걸의 혈맥",
+    "type": "スキル",
+    "effect_ja": "不撓不屈にバーストゲージアップ効果追加(+30%)",
+    "effect_ko": "[wiki] 불요불굴에 버스트 게이지 UP 효과 추가(+30%)",
+    "eirei_only": true,
+    "parent_eirei_ja": "ヘラクレス",
+    "parent_eirei_ko": "헤라클레스",
+    "weapon_ja": "剛斧ネメアスカル",
+    "weapon_ko": "강부 네메아 스컬"
+  },
+  "剛斧ネメアスカル": {
+    "name_ko": "강부 네메아 스컬",
+    "type": "eirei_weapon",
+    "skills": [
+      {
+        "name_ja": "神闘士の覇気",
+        "name_ko": "[wiki] 신투사의 패기"
+      },
+      {
+        "name_ja": "豪傑の血脈",
+        "name_ko": "[wiki] 호걸의 혈맥"
+      }
+    ],
+    "parent_eirei_ja": "ヘラクレス",
+    "parent_eirei_ko": "헤라클레스"
+  },
+  "神闘士の練気": {
+    "name_ko": "[wiki] 신투사의 연기",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HP上昇",
+    "effect_ko": "속성 캐릭터의 최대 HP 상승",
+    "eirei_only": true,
+    "parent_eirei_ja": "ヘラクレス",
+    "parent_eirei_ko": "헤라클레스",
+    "weapon_ja": "剛弓ヴェノムヒドラ",
+    "weapon_ko": "[wiki] 강궁 베놈 히드라"
+  },
+  "神話の体現者": {
+    "name_ko": "[wiki] 신화의 체현자",
+    "type": "スキル",
+    "effect_ja": "フルブレイクの効果量アップ",
+    "effect_ko": "[wiki] 풀 브레이크의 효과량 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "ヘラクレス",
+    "parent_eirei_ko": "헤라클레스",
+    "weapon_ja": "剛弓ヴェノムヒドラ",
+    "weapon_ko": "[wiki] 강궁 베놈 히드라"
+  },
+  "剛弓ヴェノムヒドラ": {
+    "name_ko": "[wiki] 강궁 베놈 히드라",
+    "type": "eirei_weapon",
+    "skills": [
+      {
+        "name_ja": "神闘士の練気",
+        "name_ko": "[wiki] 신투사의 연기"
+      },
+      {
+        "name_ja": "神話の体現者",
+        "name_ko": "[wiki] 신화의 체현자"
+      }
+    ],
+    "parent_eirei_ja": "ヘラクレス",
+    "parent_eirei_ko": "헤라클레스"
+  },
+  "闇魔女の覇気": {
+    "name_ko": "[wiki] 암마녀의 패기",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃力アップ",
+    "effect_ko": "아군 전체의 속성 공격력 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "モルガン",
+    "parent_eirei_ko": "모르간",
+    "weapon_ja": "魔杖エクスシース",
+    "weapon_ko": "[wiki] 마장 엑스시스"
+  },
+  "漆黒なる秘術": {
+    "name_ko": "[wiki] 칠흑의 비술",
+    "type": "スキル",
+    "effect_ja": "狂気の扇動の効果量アップ",
+    "effect_ko": "[wiki] 광기의 선동의 효과량 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "モルガン",
+    "parent_eirei_ko": "모르간",
+    "weapon_ja": "魔杖エクスシース",
+    "weapon_ko": "[wiki] 마장 엑스시스"
+  },
+  "魔杖エクスシース": {
+    "name_ko": "[wiki] 마장 엑스시스",
+    "type": "eirei_weapon",
+    "skills": [
+      {
+        "name_ja": "闇魔女の覇気",
+        "name_ko": "[wiki] 암마녀의 패기"
+      },
+      {
+        "name_ja": "漆黒なる秘術",
+        "name_ko": "[wiki] 칠흑의 비술"
+      }
+    ],
+    "parent_eirei_ja": "モルガン",
+    "parent_eirei_ko": "모르간"
+  },
+  "闇魔女の練気": {
+    "name_ko": "[wiki] 암마녀의 연기",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HP上昇",
+    "effect_ko": "속성 캐릭터의 최대 HP 상승",
+    "eirei_only": true,
+    "parent_eirei_ja": "モルガン",
+    "parent_eirei_ko": "모르간",
+    "weapon_ja": "魔書アヴァロンエピック",
+    "weapon_ko": "[wiki] 마서 아발론 에픽"
+  },
+  "聖剣を包む繭": {
+    "name_ko": "[wiki] 성검을 감싸는 고치",
+    "type": "スキル",
+    "effect_ja": "闘争への教唆発動時効果を自分にも適用",
+    "effect_ko": "[wiki] 투쟁으로의 교사 발동 시 효과를 자신에게도 적용",
+    "eirei_only": true,
+    "parent_eirei_ja": "モルガン",
+    "parent_eirei_ko": "모르간",
+    "weapon_ja": "魔書アヴァロンエピック",
+    "weapon_ko": "[wiki] 마서 아발론 에픽"
+  },
+  "魔書アヴァロンエピック": {
+    "name_ko": "[wiki] 마서 아발론 에픽",
+    "type": "eirei_weapon",
+    "skills": [
+      {
+        "name_ja": "闇魔女の練気",
+        "name_ko": "[wiki] 암마녀의 연기"
+      },
+      {
+        "name_ja": "聖剣を包む繭",
+        "name_ko": "[wiki] 성검을 감싸는 고치"
+      }
+    ],
+    "parent_eirei_ja": "モルガン",
+    "parent_eirei_ko": "모르간"
+  },
+  "賢武将の覇気": {
+    "name_ko": "[wiki] 현무장의 패기",
+    "type": "スキル",
+    "effect_ja": "味方全体の属性攻撃力アップ",
+    "effect_ko": "아군 전체의 속성 공격력 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "信玄",
+    "parent_eirei_ko": "신겐",
+    "weapon_ja": "天上天下武槍",
+    "weapon_ko": "[wiki] 천상천하무창"
+  },
+  "天下への覇道": {
+    "name_ko": "[wiki] 천하를 향한 패도",
+    "type": "スキル",
+    "effect_ja": "侵火焔喝の効果量アップ(+35)",
+    "effect_ko": "[wiki] 침화염갈의 효과량 UP(+35)",
+    "eirei_only": true,
+    "parent_eirei_ja": "信玄",
+    "parent_eirei_ko": "신겐",
+    "weapon_ja": "天上天下武槍",
+    "weapon_ko": "[wiki] 천상천하무창"
+  },
+  "天上天下武槍": {
+    "name_ko": "[wiki] 천상천하무창",
+    "type": "eirei_weapon",
+    "skills": [
+      {
+        "name_ja": "賢武将の覇気",
+        "name_ko": "[wiki] 현무장의 패기"
+      },
+      {
+        "name_ja": "天下への覇道",
+        "name_ko": "[wiki] 천하를 향한 패도"
+      }
+    ],
+    "parent_eirei_ja": "信玄",
+    "parent_eirei_ko": "신겐"
+  },
+  "賢武将の練気": {
+    "name_ko": "[wiki] 현무장의 연기",
+    "type": "スキル",
+    "effect_ja": "属性キャラクターの最大HP上昇",
+    "effect_ko": "속성 캐릭터의 최대 HP 상승",
+    "eirei_only": true,
+    "parent_eirei_ja": "信玄",
+    "parent_eirei_ko": "신겐",
+    "weapon_ja": "天下無双神弓",
+    "weapon_ko": "[wiki] 천하무쌍신궁"
+  },
+  "鬨の咆哮": {
+    "name_ko": "[wiki] 함성의 포효",
+    "type": "スキル",
+    "effect_ja": "備襲如林の効果量アップ",
+    "effect_ko": "[wiki] 비습여림의 효과량 UP",
+    "eirei_only": true,
+    "parent_eirei_ja": "信玄",
+    "parent_eirei_ko": "신겐",
+    "weapon_ja": "天下無双神弓",
+    "weapon_ko": "[wiki] 천하무쌍신궁"
+  },
+  "天下無双神弓": {
+    "name_ko": "[wiki] 천하무쌍신궁",
+    "type": "eirei_weapon",
+    "skills": [
+      {
+        "name_ja": "賢武将の練気",
+        "name_ko": "[wiki] 현무장의 연기"
+      },
+      {
+        "name_ja": "鬨の咆哮",
+        "name_ko": "[wiki] 함성의 포효"
+      }
+    ],
+    "parent_eirei_ja": "信玄",
+    "parent_eirei_ko": "신겐"
+  }
+}
